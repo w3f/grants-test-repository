@@ -8,13 +8,12 @@
 # Grants Program at Web3 Foundation
 
 
-
 ## Website
 
 Hosted on GitHub pages - https://w3f.github.io/grants/.
 This website is built using [Docusaurus](https://docusaurus.io/).
 
-## Installation and Local Development$
+## Installation and Local Development
 
 Download the repo and run the commands below
 
