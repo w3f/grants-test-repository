@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/w3f/w3f-education">
-            Contribute
+            to="https://github.com/w3f/Grants-Program">
+            Apply
           </Link>
         </div>
       </div>
@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Web3 Education Initiative">
+      description="Web3 Foundation Grants">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

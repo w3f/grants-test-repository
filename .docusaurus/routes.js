@@ -45,12 +45,7 @@ export default [
   },
   {
     path: '/grants/blog',
-    component: ComponentCreator('/grants/blog','c22'),
-    exact: true
-  },
-  {
-    path: '/grants/blog/Polkadot MOOC',
-    component: ComponentCreator('/grants/blog/Polkadot MOOC','17a'),
+    component: ComponentCreator('/grants/blog','6b3'),
     exact: true
   },
   {
@@ -59,13 +54,18 @@ export default [
     exact: true
   },
   {
-    path: '/grants/blog/tags/mooc',
-    component: ComponentCreator('/grants/blog/tags/mooc','063'),
+    path: '/grants/blog/tags/grants',
+    component: ComponentCreator('/grants/blog/tags/grants','29b'),
     exact: true
   },
   {
-    path: '/grants/blog/tags/polkadot',
-    component: ComponentCreator('/grants/blog/tags/polkadot','398'),
+    path: '/grants/blog/tags/w-3-f',
+    component: ComponentCreator('/grants/blog/tags/w-3-f','676'),
+    exact: true
+  },
+  {
+    path: '/grants/blog/W3F grants blog',
+    component: ComponentCreator('/grants/blog/W3F grants blog','c18'),
     exact: true
   },
   {

@@ -1,0 +1,21 @@
+{
+  "permalink": "/grants/blog/W3F grants blog",
+  "editUrl": "https://github.com/w3f/grants/edit/main/blog/blog/2022-07-07-grants.md",
+  "source": "@site/blog/2022-07-07-grants.md",
+  "title": "W3F grants blog",
+  "description": "test blog post",
+  "date": "2022-07-07T00:00:00.000Z",
+  "formattedDate": "July 7, 2022",
+  "tags": [
+    {
+      "label": "w3f",
+      "permalink": "/grants/blog/tags/w-3-f"
+    },
+    {
+      "label": "grants",
+      "permalink": "/grants/blog/tags/grants"
+    }
+  ],
+  "readingTime": 0.015,
+  "truncated": false
+}

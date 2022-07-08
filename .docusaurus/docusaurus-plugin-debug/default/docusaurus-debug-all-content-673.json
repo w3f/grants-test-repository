@@ -55,26 +55,26 @@
     "default": {
       "blogPosts": [
         {
-          "id": "Polkadot MOOC",
+          "id": "W3F grants blog",
           "metadata": {
-            "permalink": "/grants/blog/Polkadot MOOC",
-            "editUrl": "https://github.com/w3f/grants/edit/main/blog/blog/2021-08-12-MOOC.md",
-            "source": "@site/blog/2021-08-12-MOOC.md",
-            "title": "Polkadot MOOC",
-            "description": "The technical education team at the Web3 Foundation is pioneering the initiative of creating an introductory course",
-            "date": "2021-08-12T00:00:00.000Z",
-            "formattedDate": "August 12, 2021",
+            "permalink": "/grants/blog/W3F grants blog",
+            "editUrl": "https://github.com/w3f/grants/edit/main/blog/blog/2022-07-07-grants.md",
+            "source": "@site/blog/2022-07-07-grants.md",
+            "title": "W3F grants blog",
+            "description": "test blog post",
+            "date": "2022-07-07T00:00:00.000Z",
+            "formattedDate": "July 7, 2022",
             "tags": [
               {
-                "label": "Polkadot",
-                "permalink": "/grants/blog/tags/polkadot"
+                "label": "w3f",
+                "permalink": "/grants/blog/tags/w-3-f"
               },
               {
-                "label": "MOOC",
-                "permalink": "/grants/blog/tags/mooc"
+                "label": "grants",
+                "permalink": "/grants/blog/tags/grants"
               }
             ],
-            "readingTime": 0.32,
+            "readingTime": 0.015,
             "truncated": false
           }
         }
@@ -93,24 +93,24 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "Polkadot MOOC"
+            "W3F grants blog"
           ]
         }
       ],
       "blogTags": {
-        "polkadot": {
-          "name": "polkadot",
+        "w-3-f": {
+          "name": "w3f",
           "items": [
-            "Polkadot MOOC"
+            "W3F grants blog"
           ],
-          "permalink": "/grants/blog/tags/polkadot"
+          "permalink": "/grants/blog/tags/w-3-f"
         },
-        "mooc": {
-          "name": "mooc",
+        "grants": {
+          "name": "grants",
           "items": [
-            "Polkadot MOOC"
+            "W3F grants blog"
           ],
-          "permalink": "/grants/blog/tags/mooc"
+          "permalink": "/grants/blog/tags/grants"
         }
       },
       "blogTagsListPath": "/grants/blog/tags"

@@ -25,45 +25,45 @@
   "/grants/__docusaurus/debug/routes-13c": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/grants/blog-c22": {
+  "/grants/blog-6b3": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---grants-blog-814-1af",
     "items": [
       {
-        "content": "content---grants-blog-2-a-3-445"
+        "content": "content---grants-blogc-42-ae7"
       }
     ],
     "metadata": "metadata---grants-blog-4-cb-702"
-  },
-  "/grants/blog/Polkadot MOOC-17a": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---grants-blog-814-1af",
-    "content": "content---grants-blog-polkadot-moo-ce-3-b-3a8"
   },
   "/grants/blog/tags-7c3": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
     "sidebar": "sidebar---grants-blog-814-1af",
     "tags": "tags---grants-blog-tags-83-b-bb2"
   },
-  "/grants/blog/tags/mooc-063": {
+  "/grants/blog/tags/grants-29b": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---grants-blog-814-1af",
     "items": [
       {
-        "content": "content---grants-blog-2-a-3-445"
+        "content": "content---grants-blogc-42-ae7"
       }
     ],
-    "metadata": "metadata---grants-blog-tags-mooc-34-c-f54"
+    "metadata": "metadata---grants-blog-tags-grantsa-0-e-0a9"
   },
-  "/grants/blog/tags/polkadot-398": {
+  "/grants/blog/tags/w-3-f-676": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---grants-blog-814-1af",
     "items": [
       {
-        "content": "content---grants-blog-2-a-3-445"
+        "content": "content---grants-blogc-42-ae7"
       }
     ],
-    "metadata": "metadata---grants-blog-tags-polkadotfb-8-3cf"
+    "metadata": "metadata---grants-blog-tags-w-3-f-59-a-71f"
+  },
+  "/grants/blog/W3F grants blog-c18": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---grants-blog-814-1af",
+    "content": "content---grants-blog-w-3-f-grants-blogda-4-3a7"
   },
   "/grants/docs-285": {
     "component": "component---theme-doc-page-1-be-9be",

@@ -1,16 +1,16 @@
 {
-  "polkadot": {
+  "w-3-f": {
     "allTagsPath": "/grants/blog/tags",
-    "slug": "polkadot",
-    "name": "polkadot",
+    "slug": "w-3-f",
+    "name": "w3f",
     "count": 1,
-    "permalink": "/grants/blog/tags/polkadot"
+    "permalink": "/grants/blog/tags/w-3-f"
   },
-  "mooc": {
+  "grants": {
     "allTagsPath": "/grants/blog/tags",
-    "slug": "mooc",
-    "name": "mooc",
+    "slug": "grants",
+    "name": "grants",
     "count": 1,
-    "permalink": "/grants/blog/tags/mooc"
+    "permalink": "/grants/blog/tags/grants"
   }
 }

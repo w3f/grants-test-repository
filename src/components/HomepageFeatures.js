@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Courses for everyone',
+    title: 'Open Source',
     Svg: require('../../static/img/icon-documentation.svg').default,
     description: (
       <>
@@ -12,7 +12,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Stay relevant',
+    title: 'Power the Ecosystem',
     Svg: require('../../static/img/Polkadot_Logo_Horizontal_BlackOnWhite.svg').default,
     description: (
       <>
