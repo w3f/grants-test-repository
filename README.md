@@ -22,6 +22,10 @@ yarn install
 ```
 
 ```console
+yarn build
+```
+
+```console
 yarn start
 ```
 
