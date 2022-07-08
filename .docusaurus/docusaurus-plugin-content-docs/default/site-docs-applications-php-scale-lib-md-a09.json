@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/php-scale-lib",
+  "id": "applications/php-scale-lib",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: PHP Scale Codec",
+  "source": "@site/docs/applications/php-scale-lib.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/php-scale-lib",
+  "permalink": "/grants/docs/applications/php-scale-lib",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/php-scale-lib.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/php-rpc-lib"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/php-substrate-api"
+  }
+}

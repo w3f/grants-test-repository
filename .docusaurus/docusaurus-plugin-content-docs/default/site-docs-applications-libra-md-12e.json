@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Libra",
+  "id": "applications/Libra",
+  "isDocsHomePage": false,
+  "title": "Project Libra",
+  "description": "- Project Name: Libra - Decentralized Payment Network",
+  "source": "@site/docs/applications/Libra.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Libra",
+  "permalink": "/grants/docs/applications/Libra",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Libra.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Koi Metaverse - Open Grants Program",
+    "permalink": "/grants/docs/applications/Koiverse"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/MAP-Bridge"
+  }
+}

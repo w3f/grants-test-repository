@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/polkamusic",
+  "id": "applications/polkamusic",
+  "isDocsHomePage": false,
+  "title": "W3F Open Grant Proposal",
+  "description": "* Project Name: PolkaMusic",
+  "source": "@site/docs/applications/polkamusic.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/polkamusic",
+  "permalink": "/grants/docs/applications/polkamusic",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/polkamusic.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Polkakeeper Grant Proposal",
+    "permalink": "/grants/docs/applications/polkakeeper"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/polkashots"
+  }
+}

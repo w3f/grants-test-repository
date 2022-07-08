@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/xtokens",
+  "id": "applications/xtokens",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the Open Grants Program Process on how to submit a proposal.",
+  "source": "@site/docs/applications/xtokens.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/xtokens",
+  "permalink": "/grants/docs/applications/xtokens",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/xtokens.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal: PSP of XBI - an XCM-based high-level standard and interface (ABI) for smart contracts",
+    "permalink": "/grants/docs/applications/xbi-format-psp-t3rn"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/yatima"
+  }
+}

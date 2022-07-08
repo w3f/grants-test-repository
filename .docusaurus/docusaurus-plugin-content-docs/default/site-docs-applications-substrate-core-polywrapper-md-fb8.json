@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/substrate_core_polywrapper",
+  "id": "applications/substrate_core_polywrapper",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name: Substrate Core Polywrapper",
+  "source": "@site/docs/applications/substrate_core_polywrapper.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/substrate_core_polywrapper",
+  "permalink": "/grants/docs/applications/substrate_core_polywrapper",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/substrate_core_polywrapper.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/substrate_client_java"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/substrate_startkit_GUI"
+  }
+}

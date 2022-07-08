@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Doter",
+  "id": "applications/Doter",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Doter (A browser extension wallet for Polkadot)",
+  "source": "@site/docs/applications/Doter.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Doter",
+  "permalink": "/grants/docs/applications/Doter",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Doter.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DOT PAY",
+    "permalink": "/grants/docs/applications/DotPay"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/EverlastingCash"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/BCANN",
+  "id": "applications/BCANN",
+  "isDocsHomePage": false,
+  "title": "W3F Open Grant Proposal",
+  "description": "🌏 This page is also available in Chinese (中文).",
+  "source": "@site/docs/applications/BCANN.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/BCANN",
+  "permalink": "/grants/docs/applications/BCANN",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/BCANN.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/Apron_Network"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/Banksy_Finance"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/ares_protocol",
+  "id": "applications/ares_protocol",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project: Ares",
+  "source": "@site/docs/applications/ares_protocol.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/ares_protocol",
+  "permalink": "/grants/docs/applications/ares_protocol",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/ares_protocol.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/application-template"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/assemblyscript-scale-codec"
+  }
+}

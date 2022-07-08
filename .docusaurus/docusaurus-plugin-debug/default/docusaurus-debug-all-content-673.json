@@ -1,0 +1,134 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/grants/docs",
+          "versionEditUrl": "https://github.com/w3f/grants/edit/main/docs",
+          "versionEditUrlLocalized": "https://github.com/w3f/grants/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/radha/Documents/GitHub/grants/sidebars.js",
+          "contentPath": "/Users/radha/Documents/GitHub/grants/docs",
+          "contentPathLocalized": "/Users/radha/Documents/GitHub/grants/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Web3 Foundation Grants Program",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/grants/docs/intro",
+              "editUrl": "https://github.com/w3f/grants/edit/main/docs/intro.md",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "Polkadot MOOC",
+          "metadata": {
+            "permalink": "/grants/blog/Polkadot MOOC",
+            "editUrl": "https://github.com/w3f/grants/edit/main/blog/blog/2021-08-12-MOOC.md",
+            "source": "@site/blog/2021-08-12-MOOC.md",
+            "title": "Polkadot MOOC",
+            "description": "The technical education team at the Web3 Foundation is pioneering the initiative of creating an introductory course",
+            "date": "2021-08-12T00:00:00.000Z",
+            "formattedDate": "August 12, 2021",
+            "tags": [
+              {
+                "label": "Polkadot",
+                "permalink": "/grants/blog/tags/polkadot"
+              },
+              {
+                "label": "MOOC",
+                "permalink": "/grants/blog/tags/mooc"
+              }
+            ],
+            "readingTime": 0.32,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/grants/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "Polkadot MOOC"
+          ]
+        }
+      ],
+      "blogTags": {
+        "polkadot": {
+          "name": "polkadot",
+          "items": [
+            "Polkadot MOOC"
+          ],
+          "permalink": "/grants/blog/tags/polkadot"
+        },
+        "mooc": {
+          "name": "mooc",
+          "items": [
+            "Polkadot MOOC"
+          ],
+          "permalink": "/grants/blog/tags/mooc"
+        }
+      },
+      "blogTagsListPath": "/grants/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/grants/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

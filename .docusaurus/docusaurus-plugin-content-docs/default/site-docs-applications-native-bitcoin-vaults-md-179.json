@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/native-bitcoin-vaults",
+  "id": "applications/native-bitcoin-vaults",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Native Bitcoin Vaults (NBV)",
+  "source": "@site/docs/applications/native-bitcoin-vaults.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/native-bitcoin-vaults",
+  "permalink": "/grants/docs/applications/native-bitcoin-vaults",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/native-bitcoin-vaults.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/mybank"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/new_bls12_hash_function"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Whiteflag-on-Fennel",
+  "id": "applications/Whiteflag-on-Fennel",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name: Fennel Protocol",
+  "source": "@site/docs/applications/Whiteflag-on-Fennel.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Whiteflag-on-Fennel",
+  "permalink": "/grants/docs/applications/Whiteflag-on-Fennel",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Whiteflag-on-Fennel.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/Web3Go"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/XPredictMarket"
+  }
+}

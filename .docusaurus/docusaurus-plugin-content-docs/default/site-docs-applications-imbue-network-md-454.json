@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/imbue_network",
+  "id": "applications/imbue_network",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a > (such as this one) can be removed.",
+  "source": "@site/docs/applications/imbue_network.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/imbue_network",
+  "permalink": "/grants/docs/applications/imbue_network",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/imbue_network.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/hs-web3"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/iris"
+  }
+}

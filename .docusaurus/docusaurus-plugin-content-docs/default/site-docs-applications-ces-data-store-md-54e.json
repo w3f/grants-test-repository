@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/ces_data_store",
+  "id": "applications/ces_data_store",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Data Store Pallet",
+  "source": "@site/docs/applications/ces_data_store.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/ces_data_store",
+  "permalink": "/grants/docs/applications/ces_data_store",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/ces_data_store.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/canyon_network"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/chainjs"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolkadot_mooc=self.webpackChunkpolkadot_mooc||[]).push([[58],{3160:o=>{o.exports=JSON.parse('{"allTagsPath":"/grants/blog/tags","slug":"mooc","name":"mooc","count":1,"permalink":"/grants/blog/tags/mooc"}')}}]);

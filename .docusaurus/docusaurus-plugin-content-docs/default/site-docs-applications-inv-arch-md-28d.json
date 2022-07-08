@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/InvArch",
+  "id": "applications/InvArch",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name IP Assets, Licensings, & CLI tool for the Substate ecosystem.",
+  "source": "@site/docs/applications/InvArch.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/InvArch",
+  "permalink": "/grants/docs/applications/InvArch",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/InvArch.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/Interstellar-Network"
+  },
+  "next": {
+    "title": "JuniDB",
+    "permalink": "/grants/docs/applications/JuniDB"
+  }
+}

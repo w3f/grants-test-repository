@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/FIAT-on-off-ramp",
+  "id": "applications/FIAT-on-off-ramp",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: FIAT on-off-ramp",
+  "source": "@site/docs/applications/FIAT-on-off-ramp.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/FIAT-on-off-ramp",
+  "permalink": "/grants/docs/applications/FIAT-on-off-ramp",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/FIAT-on-off-ramp.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/EverlastingCash"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/Fennel_Protocol"
+  }
+}

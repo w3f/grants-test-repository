@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Parallel",
+  "id": "applications/Parallel",
+  "isDocsHomePage": false,
+  "title": "Parallel Finance Open Grant Proposal",
+  "description": "-   Project Name: Parallel Finance",
+  "source": "@site/docs/applications/Parallel.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Parallel",
+  "permalink": "/grants/docs/applications/Parallel",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Parallel.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/OpenSquare_paid_qa_protocol"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/Plus-follow-up"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/keysafe_network",
+  "id": "applications/keysafe_network",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Keysafe Network",
+  "source": "@site/docs/applications/keysafe_network.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/keysafe_network",
+  "permalink": "/grants/docs/applications/keysafe_network",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/keysafe_network.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/java-client"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/klevoya_fuzzer"
+  }
+}

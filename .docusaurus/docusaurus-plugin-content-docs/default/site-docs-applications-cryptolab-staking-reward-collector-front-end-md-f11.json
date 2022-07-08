@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/cryptolab-staking-reward-collector-front-end",
+  "id": "applications/cryptolab-staking-reward-collector-front-end",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal for *Front-End for Staking Rewards Collector*",
+  "description": "* Project Name: CryptoLab Staking Reward Collector",
+  "source": "@site/docs/applications/cryptolab-staking-reward-collector-front-end.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/cryptolab-staking-reward-collector-front-end",
+  "permalink": "/grants/docs/applications/cryptolab-staking-reward-collector-front-end",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/cryptolab-staking-reward-collector-front-end.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/crossbow"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/curve_amm"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "isDocsHomePage": false,
+  "title": "faq",
+  "description": "Web3 Foundation Grants Program",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/grants/docs/faq",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/faq.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/AdMeta"
+  },
+  "next": {
+    "title": "Usage guidelines for the W3F Grants Program badge",
+    "permalink": "/grants/docs/grant-badge-guidelines"
+  }
+}

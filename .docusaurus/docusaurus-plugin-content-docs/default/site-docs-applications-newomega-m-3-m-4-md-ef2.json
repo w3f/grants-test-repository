@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/newomega-m3m4",
+  "id": "applications/newomega-m3m4",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: NewOmega (Milestone 3 and 4)",
+  "source": "@site/docs/applications/newomega-m3m4.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/newomega-m3m4",
+  "permalink": "/grants/docs/applications/newomega-m3m4",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/newomega-m3m4.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/new_bls12_hash_function"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/newomega"
+  }
+}

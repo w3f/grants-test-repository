@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/delmonicos",
+  "id": "applications/delmonicos",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "This document is referenced in the terms and conditions and therefore needs to contain all the required",
+  "source": "@site/docs/applications/delmonicos.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/delmonicos",
+  "permalink": "/grants/docs/applications/delmonicos",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/delmonicos.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/deip"
+  },
+  "next": {
+    "title": "Quadratic Funding Pallet",
+    "permalink": "/grants/docs/applications/dora-factory-molochdao-v1-v2"
+  }
+}

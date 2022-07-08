@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Fennel_Protocol",
+  "id": "applications/Fennel_Protocol",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name: Fennel Protocol",
+  "source": "@site/docs/applications/Fennel_Protocol.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Fennel_Protocol",
+  "permalink": "/grants/docs/applications/Fennel_Protocol",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Fennel_Protocol.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/FIAT-on-off-ramp"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/Gafi"
+  }
+}

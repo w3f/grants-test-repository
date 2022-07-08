@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/dot_marketplace-phase2",
+  "id": "applications/dot_marketplace-phase2",
+  "isDocsHomePage": false,
+  "title": "Dot Marketplace v2",
+  "description": "- Status: Open",
+  "source": "@site/docs/applications/dot_marketplace-phase2.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/dot_marketplace-phase2",
+  "permalink": "/grants/docs/applications/dot_marketplace-phase2",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/dot_marketplace-phase2.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quadratic Funding Pallet",
+    "permalink": "/grants/docs/applications/dorahacks-quadratic-funding"
+  },
+  "next": {
+    "title": "**Dot Marketplace**",
+    "permalink": "/grants/docs/applications/dot_marketplace"
+  }
+}

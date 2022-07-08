@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/nft_collectibles_wallet",
+  "id": "applications/nft_collectibles_wallet",
+  "isDocsHomePage": false,
+  "title": "W3F Open Grant Proposal",
+  "description": "* Project Name: NFT Collectibles Wallet",
+  "source": "@site/docs/applications/nft_collectibles_wallet.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/nft_collectibles_wallet",
+  "permalink": "/grants/docs/applications/nft_collectibles_wallet",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/nft_collectibles_wallet.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/newomega"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/nft_explorer"
+  }
+}

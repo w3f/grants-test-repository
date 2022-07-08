@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/sukhavati_poc_module",
+  "id": "applications/sukhavati_poc_module",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Sukhavati PoC Module",
+  "source": "@site/docs/applications/sukhavati_poc_module.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/sukhavati_poc_module",
+  "permalink": "/grants/docs/applications/sukhavati_poc_module",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/sukhavati_poc_module.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/subwallet"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/sunrise-dex"
+  }
+}

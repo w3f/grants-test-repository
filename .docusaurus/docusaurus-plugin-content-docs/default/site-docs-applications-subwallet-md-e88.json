@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/subwallet",
+  "id": "applications/subwallet",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project: subwallet",
+  "source": "@site/docs/applications/subwallet.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/subwallet",
+  "permalink": "/grants/docs/applications/subwallet",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/subwallet.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/subvt-telegram-bot"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/sukhavati_poc_module"
+  }
+}

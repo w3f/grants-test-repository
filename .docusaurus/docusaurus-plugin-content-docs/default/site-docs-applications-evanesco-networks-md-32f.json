@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/evanesco_networks",
+  "id": "applications/evanesco_networks",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Evanesco Network",
+  "source": "@site/docs/applications/evanesco_networks.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/evanesco_networks",
+  "permalink": "/grants/docs/applications/evanesco_networks",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/evanesco_networks.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/epirus_substrate_explorer"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/example-project"
+  }
+}

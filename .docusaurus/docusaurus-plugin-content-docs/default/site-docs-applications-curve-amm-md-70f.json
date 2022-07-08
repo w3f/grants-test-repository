@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/curve_amm",
+  "id": "applications/curve_amm",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Curve AMM",
+  "source": "@site/docs/applications/curve_amm.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/curve_amm",
+  "permalink": "/grants/docs/applications/curve_amm",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/curve_amm.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal for *Front-End for Staking Rewards Collector*",
+    "permalink": "/grants/docs/applications/cryptolab-staking-reward-collector-front-end"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/dart-scale-codec"
+  }
+}

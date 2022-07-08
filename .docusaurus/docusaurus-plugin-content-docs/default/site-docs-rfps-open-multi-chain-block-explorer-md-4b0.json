@@ -1,0 +1,26 @@
+{
+  "unversionedId": "rfps/open/multi-chain-block-explorer",
+  "id": "rfps/open/multi-chain-block-explorer",
+  "isDocsHomePage": false,
+  "title": "Multi-chain Block Explorer",
+  "description": "* Status: Open",
+  "source": "@site/docs/rfps/open/multi-chain-block-explorer.md",
+  "sourceDirName": "rfps/open",
+  "slug": "/rfps/open/multi-chain-block-explorer",
+  "permalink": "/grants/docs/rfps/open/multi-chain-block-explorer",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/rfps/open/multi-chain-block-explorer.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ink!/pallet/solidity performance benchmarking",
+    "permalink": "/grants/docs/rfps/open/implementation-benchmarking"
+  },
+  "next": {
+    "title": "Polkadot Collator Setup",
+    "permalink": "/grants/docs/rfps/open/polkadot-collator-setup"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/KSM-embeddable-tip-or-donate-button",
+  "id": "applications/KSM-embeddable-tip-or-donate-button",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "- Project: Tip or Donate KSM Embeddable Button",
+  "source": "@site/docs/applications/KSM-embeddable-tip-or-donate-button.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/KSM-embeddable-tip-or-donate-button",
+  "permalink": "/grants/docs/applications/KSM-embeddable-tip-or-donate-button",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/KSM-embeddable-tip-or-donate-button.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JuniDB",
+    "permalink": "/grants/docs/applications/JuniDB"
+  },
+  "next": {
+    "title": "Koi Metaverse - Open Grants Program",
+    "permalink": "/grants/docs/applications/Koiverse"
+  }
+}

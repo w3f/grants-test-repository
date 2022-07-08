@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/sunrise-dex",
+  "id": "applications/sunrise-dex",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Sunrise DEX",
+  "source": "@site/docs/applications/sunrise-dex.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/sunrise-dex",
+  "permalink": "/grants/docs/applications/sunrise-dex",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/sunrise-dex.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/sukhavati_poc_module"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/sunshine-keybase"
+  }
+}

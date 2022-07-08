@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Cere_Turnkey_Private_Blockchain_Network",
+  "id": "applications/Cere_Turnkey_Private_Blockchain_Network",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project: Turn-key Private Standalone Blockchain Network",
+  "source": "@site/docs/applications/Cere_Turnkey_Private_Blockchain_Network.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Cere_Turnkey_Private_Blockchain_Network",
+  "permalink": "/grants/docs/applications/Cere_Turnkey_Private_Blockchain_Network",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Cere_Turnkey_Private_Blockchain_Network.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/CESS"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/Coinversation"
+  }
+}

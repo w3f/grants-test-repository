@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/iris",
+  "id": "applications/iris",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Iris",
+  "source": "@site/docs/applications/iris.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/iris",
+  "permalink": "/grants/docs/applications/iris",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/iris.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/imbue_network"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/iris_followup"
+  }
+}

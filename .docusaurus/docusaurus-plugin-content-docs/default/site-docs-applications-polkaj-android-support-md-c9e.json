@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/polkaj_android_support",
+  "id": "applications/polkaj_android_support",
+  "isDocsHomePage": false,
+  "title": "W3F Open Grant Proposal",
+  "description": "* Project Name: PolkaJ Android Support",
+  "source": "@site/docs/applications/polkaj_android_support.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/polkaj_android_support",
+  "permalink": "/grants/docs/applications/polkaj_android_support",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/polkaj_android_support.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/polkadotjs_no_code"
+  },
+  "next": {
+    "title": "Polkakeeper Grant Proposal",
+    "permalink": "/grants/docs/applications/polkakeeper"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/helixstreet",
+  "id": "applications/helixstreet",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: helixstreet Module",
+  "source": "@site/docs/applications/helixstreet.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/helixstreet",
+  "permalink": "/grants/docs/applications/helixstreet",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/helixstreet.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/hamster"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/hex"
+  }
+}

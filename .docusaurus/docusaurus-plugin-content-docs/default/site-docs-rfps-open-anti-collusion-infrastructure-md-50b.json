@@ -1,0 +1,26 @@
+{
+  "unversionedId": "rfps/open/anti-collusion_infrastructure",
+  "id": "rfps/open/anti-collusion_infrastructure",
+  "isDocsHomePage": false,
+  "title": "Anti-Collusion Infrastructure",
+  "description": "* Status: Open",
+  "source": "@site/docs/rfps/open/anti-collusion_infrastructure.md",
+  "sourceDirName": "rfps/open",
+  "slug": "/rfps/open/anti-collusion_infrastructure",
+  "permalink": "/grants/docs/rfps/open/anti-collusion_infrastructure",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/rfps/open/anti-collusion_infrastructure.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alternative Polkadot Host Implementation",
+    "permalink": "/grants/docs/rfps/open/alternative_polkadot_host_implementations"
+  },
+  "next": {
+    "title": "e-Passport ZK Validation",
+    "permalink": "/grants/docs/rfps/open/epassport-zk-validation"
+  }
+}

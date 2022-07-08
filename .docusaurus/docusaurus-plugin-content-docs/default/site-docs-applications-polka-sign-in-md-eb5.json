@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/PolkaSignIn",
+  "id": "applications/PolkaSignIn",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name: Polka SignIn",
+  "source": "@site/docs/applications/PolkaSignIn.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/PolkaSignIn",
+  "permalink": "/grants/docs/applications/PolkaSignIn",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/PolkaSignIn.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/PolkaKey"
+  },
+  "next": {
+    "title": "Polkadot-Dart",
+    "permalink": "/grants/docs/applications/Polkadot-Dart"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/openbrush-follow-up-2",
+  "id": "applications/openbrush-follow-up-2",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "* Project Name: OpenBrush",
+  "source": "@site/docs/applications/openbrush-follow-up-2.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/openbrush-follow-up-2",
+  "permalink": "/grants/docs/applications/openbrush-follow-up-2",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/openbrush-follow-up-2.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/open-node-framework"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/openbrush-follow-up"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/candle_auction_ink",
+  "id": "applications/candle_auction_ink",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Candle Auctions on Ink!",
+  "source": "@site/docs/applications/candle_auction_ink.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/candle_auction_ink",
+  "permalink": "/grants/docs/applications/candle_auction_ink",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/candle_auction_ink.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/cScale"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/canyon_network"
+  }
+}

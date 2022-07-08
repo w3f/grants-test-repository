@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/massbit_route",
+  "id": "applications/massbit_route",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Massbit Route",
+  "source": "@site/docs/applications/massbit_route.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/massbit_route",
+  "permalink": "/grants/docs/applications/massbit_route",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/massbit_route.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/manta_network"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/mobile-game-framework"
+  }
+}

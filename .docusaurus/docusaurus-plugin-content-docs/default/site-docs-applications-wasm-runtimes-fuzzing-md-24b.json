@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/wasm_runtimes_fuzzing",
+  "id": "applications/wasm_runtimes_fuzzing",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the Open Grants Program Process on how to submit a proposal.",
+  "source": "@site/docs/applications/wasm_runtimes_fuzzing.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/wasm_runtimes_fuzzing",
+  "permalink": "/grants/docs/applications/wasm_runtimes_fuzzing",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/wasm_runtimes_fuzzing.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/visualize_rust_lifetime"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/wasmedge_substrate"
+  }
+}

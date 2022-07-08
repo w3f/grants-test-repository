@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Afloat",
+  "id": "applications/Afloat",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Afloat Tax Infrastructure Polkadot Integration",
+  "source": "@site/docs/applications/Afloat.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Afloat",
+  "permalink": "/grants/docs/applications/Afloat",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Afloat.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/AdMeta"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/grants/docs/faq"
+  }
+}

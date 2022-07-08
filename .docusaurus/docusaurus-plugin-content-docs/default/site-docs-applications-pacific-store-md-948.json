@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/pacific_store",
+  "id": "applications/pacific_store",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "- Project: OpenSea.js on polkadot",
+  "source": "@site/docs/applications/pacific_store.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/pacific_store",
+  "permalink": "/grants/docs/applications/pacific_store",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/pacific_store.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/openbrush"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/pallet_maci"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/vera_defi",
+  "id": "applications/vera_defi",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Vera Defi Phase 1",
+  "source": "@site/docs/applications/vera_defi.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/vera_defi",
+  "permalink": "/grants/docs/applications/vera_defi",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/vera_defi.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/uplink"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/verida_network"
+  }
+}

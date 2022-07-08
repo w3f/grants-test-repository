@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/project_aurras_mvp_phase_2",
+  "id": "applications/project_aurras_mvp_phase_2",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Project Aurras - MVP - Phase 2",
+  "source": "@site/docs/applications/project_aurras_mvp_phase_2.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/project_aurras_mvp_phase_2",
+  "permalink": "/grants/docs/applications/project_aurras_mvp_phase_2",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/project_aurras_mvp_phase_2.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/project_aurras_mvp_phase_1"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/project_bodhi"
+  }
+}

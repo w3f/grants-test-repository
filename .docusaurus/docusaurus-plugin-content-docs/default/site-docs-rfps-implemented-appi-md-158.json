@@ -1,0 +1,26 @@
+{
+  "unversionedId": "rfps/implemented/appi",
+  "id": "rfps/implemented/appi",
+  "isDocsHomePage": false,
+  "title": "APPI: Auto-funded public P2P infrastructure",
+  "description": "* Status: Implemented",
+  "source": "@site/docs/rfps/implemented/appi.md",
+  "sourceDirName": "rfps/implemented",
+  "slug": "/rfps/implemented/appi",
+  "permalink": "/grants/docs/rfps/implemented/appi",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/rfps/implemented/appi.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/grants/docs/rfps/README"
+  },
+  "next": {
+    "title": "Candle auction smart contract",
+    "permalink": "/grants/docs/rfps/implemented/candle-auction"
+  }
+}

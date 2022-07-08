@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Web3 Education Initiative',
-  tagline: 'Powered by the community',
+  title: 'Web3 Education Grants',
+  tagline: 'Web3 Education Grants',
   url: 'https://w3f.github.io',
   baseUrl: '/grants/',
   onBrokenLinks: 'throw',

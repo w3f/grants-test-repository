@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/fractapp",
+  "id": "applications/fractapp",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the Open Grants Program Process on how to submit a proposal.",
+  "source": "@site/docs/applications/fractapp.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/fractapp",
+  "permalink": "/grants/docs/applications/fractapp",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/fractapp.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/fair_squares"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/halva_bootstrapping"
+  }
+}

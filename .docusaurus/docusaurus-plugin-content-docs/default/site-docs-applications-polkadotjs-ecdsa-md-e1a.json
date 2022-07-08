@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/polkadotjs-ecdsa",
+  "id": "applications/polkadotjs-ecdsa",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project: ECDSA for Polkadot JS",
+  "source": "@site/docs/applications/polkadotjs-ecdsa.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/polkadotjs-ecdsa",
+  "permalink": "/grants/docs/applications/polkadotjs-ecdsa",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/polkadotjs-ecdsa.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/polkadot-js-extension-per-account-auth"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/polkadotjs-hardware"
+  }
+}

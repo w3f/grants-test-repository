@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/AdMeta",
+  "id": "applications/AdMeta",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: AdMeta",
+  "source": "@site/docs/applications/AdMeta.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/AdMeta",
+  "permalink": "/grants/docs/applications/AdMeta",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/AdMeta.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Announcement Guidelines",
+    "permalink": "/grants/docs/announcement-guidelines"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/grants/docs/faq"
+  }
+}

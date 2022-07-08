@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/SEOR-code-less-smart-contract-platform",
+  "id": "applications/SEOR-code-less-smart-contract-platform",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: SEOR code-less smart contract platform",
+  "source": "@site/docs/applications/SEOR-code-less-smart-contract-platform.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/SEOR-code-less-smart-contract-platform",
+  "permalink": "/grants/docs/applications/SEOR-code-less-smart-contract-platform",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/SEOR-code-less-smart-contract-platform.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ruby Protocol - Open Grants Program",
+    "permalink": "/grants/docs/applications/RubyProtocol"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/SaaS3"
+  }
+}

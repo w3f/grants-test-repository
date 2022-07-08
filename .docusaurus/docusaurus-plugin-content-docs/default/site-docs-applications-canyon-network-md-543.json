@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/canyon_network",
+  "id": "applications/canyon_network",
+  "isDocsHomePage": false,
+  "title": "W3F Open Grant Proposal",
+  "description": "- Project Name: Canyon Network",
+  "source": "@site/docs/applications/canyon_network.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/canyon_network",
+  "permalink": "/grants/docs/applications/canyon_network",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/canyon_network.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/candle_auction_ink"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/ces_data_store"
+  }
+}

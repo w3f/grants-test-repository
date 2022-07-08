@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/stone-index-on-substrate",
+  "id": "applications/stone-index-on-substrate",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project Name: Stone Index on Substrate",
+  "source": "@site/docs/applications/stone-index-on-substrate.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/stone-index-on-substrate",
+  "permalink": "/grants/docs/applications/stone-index-on-substrate",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/stone-index-on-substrate.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/starks_network"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/subauction"
+  }
+}

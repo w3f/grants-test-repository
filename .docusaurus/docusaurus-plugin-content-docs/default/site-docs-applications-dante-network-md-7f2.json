@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/Dante_Network",
+  "id": "applications/Dante_Network",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Dante Network",
+  "source": "@site/docs/applications/Dante_Network.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/Dante_Network",
+  "permalink": "/grants/docs/applications/Dante_Network",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/Dante_Network.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/DNFT"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/DipoleOracle"
+  }
+}

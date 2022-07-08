@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/on-chain-cash",
+  "id": "applications/on-chain-cash",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: On-chain cash exchange",
+  "source": "@site/docs/applications/on-chain-cash.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/on-chain-cash",
+  "permalink": "/grants/docs/applications/on-chain-cash",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/on-chain-cash.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Overview",
+    "permalink": "/grants/docs/applications/nft_product_analytics_suite"
+  },
+  "next": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/open-node-framework"
+  }
+}

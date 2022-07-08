@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/dora-factory-multisig",
+  "id": "applications/dora-factory-multisig",
+  "isDocsHomePage": false,
+  "title": "Multisig Product on Substrate",
+  "description": "* Project Name: Build A Minimum Viable Functioning Multisig Product on Substrate",
+  "source": "@site/docs/applications/dora-factory-multisig.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/dora-factory-multisig",
+  "permalink": "/grants/docs/applications/dora-factory-multisig",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/dora-factory-multisig.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quadratic Funding Pallet",
+    "permalink": "/grants/docs/applications/dora-factory-molochdao-v1-v2"
+  },
+  "next": {
+    "title": "Quadratic Funding Pallet",
+    "permalink": "/grants/docs/applications/dorahacks-quadratic-funding"
+  }
+}

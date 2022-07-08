@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/new_bls12_hash_function",
+  "id": "applications/new_bls12_hash_function",
+  "isDocsHomePage": false,
+  "title": "W3F Grant Proposal",
+  "description": "- Project Name: Implementation of the new hash function to BLS12 curves",
+  "source": "@site/docs/applications/new_bls12_hash_function.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/new_bls12_hash_function",
+  "permalink": "/grants/docs/applications/new_bls12_hash_function",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/new_bls12_hash_function.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/native-bitcoin-vaults"
+  },
+  "next": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/newomega-m3m4"
+  }
+}

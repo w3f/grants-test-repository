@@ -1,0 +1,26 @@
+{
+  "unversionedId": "rfps/open/xcm-tool",
+  "id": "rfps/open/xcm-tool",
+  "isDocsHomePage": false,
+  "title": "XCM library & tools",
+  "description": "* Status: Open",
+  "source": "@site/docs/rfps/open/xcm-tool.md",
+  "sourceDirName": "rfps/open",
+  "slug": "/rfps/open/xcm-tool",
+  "permalink": "/grants/docs/rfps/open/xcm-tool",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/rfps/open/xcm-tool.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "polkadot-validator-setup maintenance",
+    "permalink": "/grants/docs/rfps/open/validator-setup-maintenance"
+  },
+  "next": {
+    "title": "Title of the RFP Proposal",
+    "permalink": "/grants/docs/rfps/suggestion-template"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/zk-rollups",
+  "id": "applications/zk-rollups",
+  "isDocsHomePage": false,
+  "title": "Open Grant Proposal",
+  "description": "* Project: ZK Rollup on Polkadot/Substrate",
+  "source": "@site/docs/applications/zk-rollups.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/zk-rollups",
+  "permalink": "/grants/docs/applications/zk-rollups",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/zk-rollups.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "W3F Open Grant Proposal",
+    "permalink": "/grants/docs/applications/zk-plonk"
+  },
+  "next": {
+    "title": "faq",
+    "permalink": "/grants/docs/faq"
+  }
+}

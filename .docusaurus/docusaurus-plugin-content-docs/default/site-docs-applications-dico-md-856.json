@@ -1,0 +1,26 @@
+{
+  "unversionedId": "applications/DICO",
+  "id": "applications/DICO",
+  "isDocsHomePage": false,
+  "title": "DICO Open Grant Proposal",
+  "description": "* Project Name: DICO",
+  "source": "@site/docs/applications/DICO.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/DICO",
+  "permalink": "/grants/docs/applications/DICO",
+  "editUrl": "https://github.com/w3f/grants/edit/main/docs/applications/DICO.md",
+  "version": "current",
+  "lastUpdatedBy": "Radha",
+  "lastUpdatedAt": 1657274006,
+  "formattedLastUpdatedAt": "7/8/2022",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Grant Proposal",
+    "permalink": "/grants/docs/applications/Coinversation"
+  },
+  "next": {
+    "title": "W3F Grant Proposal",
+    "permalink": "/grants/docs/applications/DKSAP"
+  }
+}
