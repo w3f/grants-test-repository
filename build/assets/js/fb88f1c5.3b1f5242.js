@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpolkadot_mooc=self.webpackChunkpolkadot_mooc||[]).push([[960],{9240:o=>{o.exports=JSON.parse('{"allTagsPath":"/grants/blog/tags","slug":"polkadot","name":"polkadot","count":1,"permalink":"/grants/blog/tags/polkadot"}')}}]);
