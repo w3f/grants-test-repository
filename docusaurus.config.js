@@ -4,10 +4,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Web3 Foundation Grants',
-  tagline: 'funding software development and research efforts related to Polkadot, Kusama, Substrate and ink!',
+  tagline: 'Funding software development and research efforts related to Polkadot, Kusama, Substrate and ink!',
   url: 'https://w3f.github.io',
   baseUrl: '/grants/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Web3Foundation.png',
   organizationName: 'w3f', // Usually your GitHub org/user name.
@@ -17,9 +17,17 @@ module.exports = {
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
+      disableSwitch: false,
 
-      },
+    },
+    announcementBar: {
+      id: 'announcement',
+      content:
+        '<h4>Check out <a target="_blank" rel="noopener noreferrer" href="https://web3.bamboohr.com/jobs/">our current job openings</a>!</h4>',
+      backgroundColor: '#E6007A',
+      textColor: '#ffffff',
+      isCloseable: true,
+    },
     navbar: {
       title: 'W3F Grants Program',
       logo: {
@@ -27,13 +35,18 @@ module.exports = {
         src: 'img/Web3Foundation.png',
       },
       items: [
-
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'Introduction/index',
           position: 'left',
-          label: 'Grants',
+          label: 'Introduction',
         },
+        {
+          type: 'doc',
+          docId: 'apply',
+          position: 'left',
+          label: 'Apply',
+        }
 
       ],
     },
@@ -45,8 +58,8 @@ module.exports = {
           title: 'Links',
           items: [
             {
-              label: 'Wiki',
-              href: 'https://wiki.polkadot.network/',
+              label: 'GitHub',
+              href: 'https://github.com/w3f/Grants-Program',
             },
             {
               label: 'Website',
@@ -64,11 +77,7 @@ module.exports = {
             {
               label: 'Blog',
               to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/w3f/grants',
-            },
+            }
           ],
         },
       ],
@@ -85,7 +94,7 @@ module.exports = {
       {
         docs: {
           editUrl:
-            'https://github.com/w3f/grants/edit/main/',
+            'https://github.com/w3f/grants/edit/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
@@ -94,7 +103,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/w3f/grants/edit/main/blog/',
+            'https://github.com/w3f/grants/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
