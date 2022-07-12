@@ -27,3 +27,16 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ffffff;
+}
+
+a {
+  text-decoration: underline;
+}
+
+/* All other links should not be underlined */
+.button, .menu__link, .navbar__brand, .navbar__item, .pagination-nav__link, .table-of-contents__link {
+  text-decoration: none;
+}
