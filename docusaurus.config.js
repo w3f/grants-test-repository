@@ -98,6 +98,7 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
+          remarkPlugins: [require('mdx-mermaid')],
         },
         blog: {
           showReadingTime: true,
@@ -111,4 +112,5 @@ module.exports = {
       },
     ],
   ],
+  // plugins: [],
 };
