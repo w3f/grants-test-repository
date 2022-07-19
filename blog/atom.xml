@@ -13,5 +13,9 @@
         <link href="https://w3f.github.io/grants/blog/W3F grants blog"/>
         <updated>2022-07-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[test blog post]]></summary>
+        <author>
+            <name>Radha</name>
+            <uri>https://github.com/DrW3RK</uri>
+        </author>
     </entry>
 </feed>

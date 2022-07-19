@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgrants=self.webpackChunkgrants||[]).push([[408],{5788:s=>{s.exports=JSON.parse('{"allTagsPath":"/grants/blog/tags","slug":"w-3-f","name":"w3f","count":1,"permalink":"/grants/blog/tags/w-3-f"}')}}]);

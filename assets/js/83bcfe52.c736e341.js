@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgrants=self.webpackChunkgrants||[]).push([[448],{5837:a=>{a.exports=JSON.parse('{"w-3-f":{"allTagsPath":"/grants/blog/tags","slug":"w-3-f","name":"w3f","count":1,"permalink":"/grants/blog/tags/w-3-f"},"grants":{"allTagsPath":"/grants/blog/tags","slug":"grants","name":"grants","count":1,"permalink":"/grants/blog/tags/grants"}}')}}]);
