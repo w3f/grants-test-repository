@@ -49,7 +49,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'Applications/index',
+          docId: 'Applications/AdMeta',
           position: 'left',
           label: 'Applications',
         }
