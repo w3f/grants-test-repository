@@ -46,6 +46,12 @@ module.exports = {
           docId: 'apply',
           position: 'left',
           label: 'Apply',
+        },
+        {
+          type: 'doc',
+          docId: 'Applications/index',
+          position: 'left',
+          label: 'Applications',
         }
 
       ],

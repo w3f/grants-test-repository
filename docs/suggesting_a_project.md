@@ -1,6 +1,6 @@
 ---
 id: suggesting
-sidebar_position: 4
+sidebar_position: 5
 title: Suggesting a Project
 ---
 
