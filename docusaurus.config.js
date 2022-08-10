@@ -6,7 +6,7 @@ module.exports = {
   title: 'Web3 Foundation Grants',
   tagline: 'Funding software development and research efforts related to Polkadot, Kusama, Substrate and ink!',
   url: 'https://w3f.github.io',
-  baseUrl: '/grants/',
+  baseUrl: '/grants-test-repository/',
   onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Web3Foundation.png',
@@ -100,7 +100,7 @@ module.exports = {
       {
         docs: {
           editUrl:
-            'https://github.com/w3f/grants/edit/master/',
+            'https://github.com/w3f/grants-test-repository/edit/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
@@ -110,7 +110,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/w3f/grants/edit/master/blog/',
+            'https://github.com/w3f/grants-test-repository/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
