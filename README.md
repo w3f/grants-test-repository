@@ -10,7 +10,7 @@
 
 ## Website
 
-Hosted on GitHub pages - https://w3f.github.io/grants/.
+Hosted on GitHub pages - https://w3f.github.io/grants-test-repository/.
 This website is built using [Docusaurus](https://docusaurus.io/).
 
 ## Installation and Local Development
