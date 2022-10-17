@@ -105,6 +105,7 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           remarkPlugins: [require('mdx-mermaid')],
+          exclude: ['Applications/application-template.md'],
         },
         blog: {
           showReadingTime: true,
