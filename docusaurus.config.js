@@ -1,5 +1,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const mdxMermaid = require('mdx-mermaid');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -104,7 +105,15 @@ module.exports = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          remarkPlugins: [require('mdx-mermaid')],
+          beforeDefaultRehypePlugins: [
+          ],
+          beforeDefaultRemarkPlugins: [
+          ],
+          remarkPlugins: [
+            mdxMermaid
+          ],
+          rehypePlugins: [
+          ],
           exclude: ['Applications/application-template.md'],
         },
         blog: {
