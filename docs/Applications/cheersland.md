@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# CheersLand-Multi-game Platform for Polkadot & Kusama
 
-- **Project Name:** CheersLand-Multi-game Platform for Polkadot & Kusama
 - **Team Name:** CheersLand Labs
 - **Payment Address:** (DAI) 0x6ea488Af2708B709a5c92bcbA1cb24c98b1f3Cda
 - **Status:** [Terminated](https://github.com/w3f/Grants-Program/pull/618#issuecomment-1017427791)

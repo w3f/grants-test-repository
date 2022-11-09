@@ -1,18 +1,16 @@
-# W3F Grant Proposal
+# Massbit Route
 
-- Project Name: Massbit Route
 - Team Name: Codelight
 - Payment Address: 0xD068C7E05CF20fcEE618C8F9207e019020c62F35
 - Level: 2
 
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 ### Overview
 
 - Codelight team's vision is to build a decentralized, user-operated, and governed Blockchain Distribution Network. To achieve the goal, we build Massbit blockchain on Substrate framework, with MBT token to create an economy, where Node Providers stake and earn Massbit token for servicing the BDN and Consumers pay in token for global access to decentralized blockchain APIs.
 
 - The majority of existing dApps are utilizing blockchain Infrastructure-as-a-Service (IaaS) such as Infura or GetBlock to shorten the time to bring their products into production. Those blockchain IaaS services have gained traction quickly and contributed to the growth of many layer-1 and layer-2 blockchain networks. But that added value comes with downsizing that many "dApps" rely on a centralized blockchain IaaS service and are prone to outages caused by IaaS providers. Massbit Route eliminates blockchain API single-point of failure by forming a global network of Independent node providers to allow dApps access to the nearest blockchain data source with optimal response time.
-
 
 ### Project Details
 
@@ -28,7 +26,6 @@ We build a network operated and serviced by users that provide fast and redundan
   - Oceana
 
 - Users can join the Massbit network as Providers from any of those regions by running Massbit Nodes and Gateways connected to blockchain data sources such as Ethereum or Polkadot. As the Massbit network grows in the number of Nodes and Gateways as well as independent node providers, the network becomes highly available and redundant. When a Provider experience an issue with their nodes, blockchain API requests will be served by other Providers, which eliminates single-point-of-failure in Web2 CDN architecture.
-
 
 #### Components
 
@@ -276,7 +273,7 @@ When a Node or Gateway joins Massbit, it needs to go through different states be
 
 - With a foundational software design and network routing structure of Massbit Nodes and Gateways, the upcoming integration with more layer-1 protocols, ETH layer 2 solutions, and other parachains become less of a burden in the near future. Once our team sees a demand for a new type of blockchain in the Massbit Route network, the implementation for the new blockchain integration can be done in a short duration. Our team commits to listen and support our community's needs to enrich the ecosystem and maintain the stability of the Massbit network.
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
@@ -311,25 +308,25 @@ When a Node or Gateway joins Massbit, it needs to go through different states be
 
 ### Team Code Repos
   
-- Massbit Core: https://github.com/massbitprotocol/massbitroute
-- Fisherman: https://github.com/massbitprotocol/massbitroute_fisherman
-- Gateway: https://github.com/massbitprotocol/massbitroute_gateway
-- Node: https://github.com/massbitprotocol/massbitroute_node
-- Stat: https://github.com/massbitprotocol/massbitroute_stat
-- Session: https://github.com/massbitprotocol/massbitroute_session
-- Gateway Manager: https://github.com/massbitprotocol/massbitroute_gwman
-- Massbit Chain: https://github.com/massbitprotocol/massbitchain
+- Massbit Core: <https://github.com/massbitprotocol/massbitroute>
+- Fisherman: <https://github.com/massbitprotocol/massbitroute_fisherman>
+- Gateway: <https://github.com/massbitprotocol/massbitroute_gateway>
+- Node: <https://github.com/massbitprotocol/massbitroute_node>
+- Stat: <https://github.com/massbitprotocol/massbitroute_stat>
+- Session: <https://github.com/massbitprotocol/massbitroute_session>
+- Gateway Manager: <https://github.com/massbitprotocol/massbitroute_gwman>
+- Massbit Chain: <https://github.com/massbitprotocol/massbitchain>
 
 ### Team LinkedIn Profiles (if available)
 
-- Tran Thanh Vu: https://www.linkedin.com/in/baysao/
-- Vu Viet Tai: https://www.linkedin.com/in/viet-tai-vu-b83a1057/
-- Nguyen Anh Huy: https://www.linkedin.com/in/anhhuy-nguyen/
-- Nguyen Manh Dat: https://www.linkedin.com/in/nguyenmanhdat/
-- Nguyen Thien Tuong: https://www.linkedin.com/in/tuong-nguyen-thien-83a33a194/
-- Bui Tran Huy Hoang: https://www.linkedin.com/in/hoangtbui/
+- Tran Thanh Vu: <https://www.linkedin.com/in/baysao/>
+- Vu Viet Tai: <https://www.linkedin.com/in/viet-tai-vu-b83a1057/>
+- Nguyen Anh Huy: <https://www.linkedin.com/in/anhhuy-nguyen/>
+- Nguyen Manh Dat: <https://www.linkedin.com/in/nguyenmanhdat/>
+- Nguyen Thien Tuong: <https://www.linkedin.com/in/tuong-nguyen-thien-83a33a194/>
+- Bui Tran Huy Hoang: <https://www.linkedin.com/in/hoangtbui/>
 
-## Development Status :open_book:
+## Development Status :open_book
 
 - Massbit Route team has completed the code base for the Massbit Route blockchain distribution network including:
   - Core API
@@ -347,7 +344,7 @@ When a Node or Gateway joins Massbit, it needs to go through different states be
   - Find out key metrics to adjust the fairness for the node approval process
   - Adjust the fee for dAPI usage and fair reward distribution to node providers who served the API request
 
-## Development Roadmap :nut_and_bolt:
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 

@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# Doter (A browser extension wallet for Polkadot)
 
-- **Project Name:** Doter (A browser extension wallet for Polkadot)
 - **Team Name:** ChainBridge network
 - **USDT Payment Payment Address:** 0x9bb9af8f2fd4487c88f1352fdd32a3ec2b6d28b6(ERC20)
 

@@ -1,13 +1,10 @@
-# W3F Open Grant Proposal
+# PolkaMusic
 
-
-
-- **Project Name:** PolkaMusic
 - **Team Name:** PolkaMusic
 - **Payment Address (BTC):** 3NQASZ1jJHsWVo6xDdAxyzWWu67HpfRr5u
 - **Status:** [Terminated](https://github.com/w3f/Grants-Program/pull/332#issuecomment-994706244)
 
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 ### Overview
 
@@ -96,7 +93,6 @@ ipfs: "ipfs_hash"
 }
 ```
 
-
 **Royalty Splitter Pallet**: Any royalty payment that needs to be processed for a song will go through the Royalty Splitter, which retrieves the ownership shares from Smart Record Contracts and splits the payments to multiple stakeholder's wallets based on ownership weights.
 
 **Quorum Pallet**: In order to deter bad actors and to thwart their efforts, Quorum Pallet will let users vote on SRCs, which will increase/reduce the trust score of an SRC/artist.
@@ -138,100 +134,112 @@ The music industry is complex with a lot of revenue streams and middle-men. With
 
 There are currently no other projects in the Substrate ecosystem that are solving this problem. Audius.com is one project on Ethereum that is focused on decentralized music, however, PolkaMusic is being built in a way so that anybody can spin up a project like Audius.com using PolkaMusic as an infrastructure. These "Smart Streaming Platforms" (SSP) will have their own unique micro-economy with their own native token. Developers can come up with innovative economic design to create value on the front-end. In addition to this, the SSPs can also integrate more pallets that will be made available publicly on a regular basis.
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
-* Phalgun Shenoy
+- Phalgun Shenoy
+
 - John Fortner
 - Suraj Kumar
 - Pranshu Rastogi
 
 ### Contact
 
-* **Contact Name:** Phalgun Shenoy
+- **Contact Name:** Phalgun Shenoy
+
 - **Contact Email:** shenoy@polkamusic.io
-- **Website:** https://polkamusic.io / https://bitcoinmusic.org
+- **Website:** <https://polkamusic.io> / <https://bitcoinmusic.org>
 - **Telegram:** @polkashenoy
-- **LinkedIn:** https://www.linkedin.com/in/shenoyphalgun/
+- **LinkedIn:** <https://www.linkedin.com/in/shenoyphalgun/>
 
 ### Legal Structure
 
-* **Registered Address:** -
+- **Registered Address:** -
+
 - **Registered Legal Entity:** The team has no legal entity now, however, the foundation is planned to be registered in Singapore.
 
 ### Team's experience
 
 ### Phalgun Shenoy
 
-* Polkadot Ambassador - India
+- Polkadot Ambassador - India
+
 - Hosting the Polkadot India Hackathon 2021.
 - 4 years of experience in designing blockchain architecture & microeconomy.
 - A content creator on YouTube with 20+ million views.
 - B.E. Computer Science
-- Founder of https://bitcoinmusic.org, an industrial grade NFT protocol for the industry.
+- Founder of <https://bitcoinmusic.org>, an industrial grade NFT protocol for the industry.
 
 ### John Fortner
 
-* Former US Air Force Avionics Technician
+- Former US Air Force Avionics Technician
+
 - Baccalaureate Degree in Computer Science
 - Experience in developing music blockchain using Graphene blockchain framework
 - Full-stack Developer with Rust, C# and Typescript skills.
 
 ### Suraj Kumar
 
-* Computer Science Engineer
+- Computer Science Engineer
+
 - Waves Tech Ambassador
 - Specialities: Javascript, Rust, Python & C++
 
 ### Pranshu Rastogi
 
-* Bachelor of Technology (B.Tech.) Computer Science
+- Bachelor of Technology (B.Tech.) Computer Science
+
 - Blockchain developer - Hyperledger Fabric | Ethereum | Polkadot | SSI
 
 ### David Hidalgo-Gato
 
-* Research Assistant - Yale/YNHH Center for Outcomes Research and Evaluation (CORE)
+- Research Assistant - Yale/YNHH Center for Outcomes Research and Evaluation (CORE)
+
 - Student - Yale University
 - Rust Programmer
 
 ### Amit Dua
 
-* Ph.D. Scholar - Computer Science
-- Assistant professor at BITS Pilani, Pilani
+- Ph.D. Scholar - Computer Science
 
+- Assistant professor at BITS Pilani, Pilani
 
 ### Team Code Repos
 
-* PolkaMusic -> https://github.com/polkamusic/PolkaMusic
-- BitcoinMusic -> https://github.com/bitcoinmusicorg/bitcoinmusic-core
+- PolkaMusic -> <https://github.com/polkamusic/PolkaMusic>
+
+- BitcoinMusic -> <https://github.com/bitcoinmusicorg/bitcoinmusic-core>
 
 ### Team LinkedIn Profiles
 
-* https://www.linkedin.com/in/shenoyphalgun/
-- https://www.linkedin.com/in/johnfortner/
-- https://www.linkedin.com/in/s5k0651/
-- https://www.linkedin.com/in/rastogipranshu/
-- https://www.linkedin.com/in/david-hidalgo-gato/
-- https://www.linkedin.com/in/amit-dua-97348415/
+- <https://www.linkedin.com/in/shenoyphalgun/>
 
-## Development Status :open_book:
+- <https://www.linkedin.com/in/johnfortner/>
+- <https://www.linkedin.com/in/s5k0651/>
+- <https://www.linkedin.com/in/rastogipranshu/>
+- <https://www.linkedin.com/in/david-hidalgo-gato/>
+- <https://www.linkedin.com/in/amit-dua-97348415/>
 
-- Our reference Smart Streaming Platform front-end is live on https://polkamusic.io
+## Development Status :open_book
+
+- Our reference Smart Streaming Platform front-end is live on <https://polkamusic.io>
 - PolkaMusic substrate testnet is currently being run for development
 - The Rights Management Pallet is in the process of being built and public on [PolkaMusic Repo](https://github.com/polkamusic/PolkaMusic/blob/master/pallets/rmp/src/lib.rs)
 
-## Development Roadmap :nut_and_bolt:
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 
-* **Total Estimated Duration:**  8 weeks
+- **Total Estimated Duration:**  8 weeks
+
 - **Full-Time Equivalent (FTE):**  4
 - **Total Costs:** 12000 USD
 
 ### Milestone 1 Creation of *Rights Management Pallet* and *Rights Management Portal*
 
-* **Estimated Duration:** 4 weeks
+- **Estimated Duration:** 4 weeks
+
 - **FTE:**  2
 - **Costs:** 6000 USD
 
@@ -251,7 +259,8 @@ Advanced Mode -> [Link](https://github.com/polkamusic/PolkaMusic/raw/master/RMP%
 
 ### Milestone 2 Creation of *Royalty Splitter Pallet* and *Front-end integration*
 
-* **Estimated Duration:** 4 Weeks
+- **Estimated Duration:** 4 Weeks
+
 - **FTE:**  2
 - **Costs:** 6000 USD
 
@@ -266,7 +275,6 @@ Advanced Mode -> [Link](https://github.com/polkamusic/PolkaMusic/raw/master/RMP%
 
 ...
 
-
 ## Future Plans
 
 After the milestones are completed, we plan to apply grants for Web3 Foundation General Grant or Substrate Builders Program during which we will be developing the following tems:
@@ -278,9 +286,10 @@ After the milestones are completed, we plan to apply grants for Web3 Foundation 
 We plan to make PolkaMusic the go-to protocol for music businesses wanting to adopt blockchain technology, or existing music blockchains to connect with Polkadot ecosystem and leverage the interoperability of music economies.
 
 In the immediate short term, we have the following 3rd party SSPs/blockchains integrating into PolkaMusic once we are live:
-- https://OneMusic.space - Works similar to soundcloud, tokenized via ONEM tokens.
-- https://kuting.club - A Chinese Smart Streaming Platform with KUTING tokens.
-- https://BitcoinMusic.org - An industrial grade NFT platform for the Music industry, connecting to PolkaMusic to leverage PolkaBTC.
+
+- <https://OneMusic.space> - Works similar to soundcloud, tokenized via ONEM tokens.
+- <https://kuting.club> - A Chinese Smart Streaming Platform with KUTING tokens.
+- <https://BitcoinMusic.org> - An industrial grade NFT platform for the Music industry, connecting to PolkaMusic to leverage PolkaBTC.
 
 The long term features would include:
 
@@ -289,8 +298,7 @@ The long term features would include:
 - Artist Coins / NFTs - Artists can create their own coins/NFTs for their own creative usecases.
 - Store - A store contract to sell merchandise/products with Artist Coins as payment.
 
-
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
 
 Storage: When a user creates a Smart Record Contract, she will be asked for the music file as well as the album cover. These files are saved on a centralized storage at the moment as anybody can download the files from ipfs with no benefit to the artist. Artist can individually choose the SSPs she would like to distribute the songs to, or can upload with them directly, and refer to the SRC Address for royalty payment purposes. In the future, we will implement decentralized file storage through IPFS with Access Control List, a permissioned version of IPFS where access is controlled by programmable smart contracts that contain an Access Control List (ACL). The modified ipfs client will serve files to the requestor only if the permission is approved in the ACL. This offers transparent, public and verifiable access without a central controller. Control is always in the hands of the data owner, the smart contract author. Every SSP will be required to run a ACL-IPFS node of their own.
 

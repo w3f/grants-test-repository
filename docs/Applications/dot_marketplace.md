@@ -1,4 +1,4 @@
-# **Dot Marketplace**
+# Dot Marketplace
 
 - **Status:** Open
 - **Project Name:** Dot Marketplace

@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# Shadows Network
 
-- **Project Name:** Shadows Network
 - **Payment Address:** 198yWGziNfUgrTXf6QiUC5QqEhJ34cyxf
 - **Status:** [Terminated](https://github.com/w3f/Grant-Milestone-Delivery/pull/95#issuecomment-794343113)
 

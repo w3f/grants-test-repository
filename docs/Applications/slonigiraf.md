@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# SLON - a recommendation letter system
 
-- **Project Name:** SLON - a recommendation letter system
 - **Team Name:** Slonigiraf
 - **Payment Address:** bc1qyuk4rdeqvc2rmetfhr3key4clty5sglaw4n5wx (BTC)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1

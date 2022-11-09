@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# SubVT Telegram Bot for Kusama and Polkadot
 
-- **Project Name:** SubVT Telegram Bot for Kusama and Polkadot
 - **Team Name:** Helikon Labs
 - **Payment Address:** `bc1qxjy7sw0ffvpq86t6hj3mmqhnfz2hxt6pk7zdz0` (BTC)
 - **Level:** 🐣 1

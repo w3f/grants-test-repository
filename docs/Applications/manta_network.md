@@ -1,17 +1,14 @@
-# Open Grant Proposal
+# Manta Network
 
 > This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/blob/master/README_2.md) on how to submit a proposal.
 
-- **Project:** Manta Network
 - **Proposer:** [Manta-Network](https://github.com/Manta-Network/Manta-Whitepaper/blob/main/manta-whitepaper.pdf)
 - **Payment Address:** bc1qcnghrzsfwnnv5fuh8095a6g3cf820c9y7t432q
 - **Status:** [Terminated](https://github.com/w3f/Grants-Program/pull/117#issuecomment-971644753)
 
-
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 Manta Network is the first privacy-preserving DeFi stack powered by zkSNARK. It includes the Decentralized Anonymous Payment (DAP)  and Decentralzied Anonymous eXchange (DAX). Decentralized Anonymous Payment (DAP) is a decentralized anonymous payment scheme for Polkadot and Parachain assets (including wrapped assets and stablecoins). Decentralzied Anonymous eXchange (DAX) is a decentralized anonymous exchange scheme based on AMM and zkSNARK.
-
 
 ### Overview
 
@@ -31,6 +28,7 @@ The cryptographic construction paper can be found [here](https://github.com/Mant
 
 The details of Manta DAP and DAX schemes can be found section 3, and section 4 of
 [Manta White Paper](https://github.com/Manta-Network/Manta-Whitepaper/blob/main/manta-whitepaper.pdf). It will based on the following cryptographic primitives:
+
 - A statiscally-hidding non-interative commitment scheme, we are planning to use Pedersen hash in the actual construction.
 - zkSNARK, we are planning to use [arkworks snark construction](https://github.com/arkworks-rs/snark) based on Groth16.
 - Public key encryption, we are planning to use the ZK friendly ElGamal scheme.
@@ -40,6 +38,7 @@ The details of Manta DAP and DAX schemes can be found section 3, and section 4 o
 #### Manta DAP
 
 Manta DAP has support two kinds transactions:
+
 - `tx_mint`: mint private coins from public coins (base coins).
 - `tx_transfer`: transfer private coins to private/public coins.
 
@@ -83,6 +82,7 @@ Manta DAP will be a substrate module. The ledger state will be a list of Merkle 
 i.e. `(L_A, L_B, ..., L_N)`, where each merkle root represents the commitment list of a base coin. Manta DAP also support registering new coins that is compatiable with Manta DAP interface.  
 
 We will implement Manta as two parts:
+
 - A substrate node that implement Manta DAP/DAX protocol.
 - A client that can initiate transactions and generating zero-knowledge proofs.
 
@@ -92,7 +92,7 @@ We will only build Decentralized Anonymous Payment (DAP) in this grant since the
 
 The current ecentralized exchanges scheme lack privacy, anti surveillance interoperability, and anonymous cryptocurrencies’ lack of price stability. As the first decentralized anonymous payment that could support existing assets, Manta DAP will be a great addition to Polkadot eco-system since Polkadot and Parachain assets such as aUSDT and wrapped BTC can be transferred and spent privately. We already talked to Polkadot eco-system members such as Acala and Equilibrium. They showed strong interests of integrating with Manta. Also, Manta DAP will be the an important building block for Manta DAX (Decentralized Anonymous eXchange) scheme that enables privacy preserving AMM style decentralized exchange using zkSNARK.
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
@@ -108,11 +108,11 @@ The current ecentralized exchanges scheme lack privacy, anti surveillance intero
 
 Detailed experience see **Team's experience section**.
 
-
 ### Team Website
 
-* Website: https://www.manta.network/
-- Whitepaper: https://github.com/Manta-Network/Manta-Whitepaper/blob/main/manta-whitepaper.pdf
+- Website: <https://www.manta.network/>
+
+- Whitepaper: <https://github.com/Manta-Network/Manta-Whitepaper/blob/main/manta-whitepaper.pdf>
 
 ### Legal Structure
 
@@ -140,27 +140,29 @@ Manta Network Ltd., a British Virgin Islands corporation
 
 ### Team Code Repos
 
-* https://github.com/Manta-Network/Manta
+- <https://github.com/Manta-Network/Manta>
 
 ### Team LinkedIn Profiles
 
-* https://www.linkedin.com/in/shumo-chu-a1722416/
-- https://www.linkedin.com/in/canghai-victor-ji-cpa-37688a5b/
-- https://www.linkedin.com/in/kennymuli
-- https://www.linkedin.com/in/qiudong-xia-2935761aa
+- <https://www.linkedin.com/in/shumo-chu-a1722416/>
 
-## Development Roadmap :nut_and_bolt:
+- <https://www.linkedin.com/in/canghai-victor-ji-cpa-37688a5b/>
+- <https://www.linkedin.com/in/kennymuli>
+- <https://www.linkedin.com/in/qiudong-xia-2935761aa>
 
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 
-* **Total Estimated Duration:** 12 weeks
+- **Total Estimated Duration:** 12 weeks
+
 - **Full-time equivalent (FTE):**  3
 - **Total Costs:** 1.5 BTC
 
 ### Milestone 1 — Manta DAP Protocol Prototype
 
-* **Estimated Duration:** 8 weeks
+- **Estimated Duration:** 8 weeks
+
 - **FTE:**  2
 - **Costs:** 1 BTC
 
@@ -177,7 +179,6 @@ The Manta substrate pallets includes the ledger state implementation, the transa
 | 1. | Manta Substrate Pallet Protoype | An open-sourced Manta DAP propotype substrate pallet. It will contains several sub-pallets, such as zkSNARK verifier runtime, ledger state and its validation logic, etc. This prototype supports basic functionalities such as mint private coins, transferring private coins. This first version of Manta DAP will only support DOT/KUSAMA.|
 | 2. | Benchmark | benchmark on Manta DAP transaction latency and throughput. |
 | 3. | Docker | We will provide a dockerfile to demonstrate the end-to-end use case of Manta DAP.  |
-
 
 ### Milestone 2 — Manta DAP Wallet Protocol and XCM Integration
 
@@ -205,10 +206,10 @@ There are two major new deliverable in Milestone 2:
 
 Note: 1 and 2 will be delivered together as a docker container.
 
-
 ### Community engagement
 
 As part of the Program, we plan to publish several medium articles/tutorials, including:
+
 - Why DeFi needs Manta, why manta should build on Polkadot? (done, please finds [here](https://medium.com/@mantanetwork/whats-next-for-defi-why-manta-64c3b20516b1))
 - Why privacy matters, why the current blockchain transactions are NOT private.
 - Manta's innovative design and architecture
@@ -230,28 +231,29 @@ Besides, we are actively engaging with Polkadot ecosystem projects like Acala, E
 ### Development Plan
 
 Manta DAP is the foundational part of [Manta](https://manta.network) project. The future plan of Manta includes:
+
 - Manta DAX scheme that support private exchange of private coins.
 - A ceremony tool to do decentralized trusted setup using MPC (secure multi-party computation).
 - A community effort to create a open standard for DApp using zkSNARK on Polkadot, so that ZK based applications can be composed together more easily.
 - Expanding more use cases to business, and supporting more assets.
 - We are also looking to build a decentralized anonymous saving & lending platform, synthetic private investments, and other DeFi adoption.
 
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
 
 We finished the cryptographic scheme design of Manta, see [Manta White Paper](https://github.com/Manta-Network/Manta-Whitepaper/blob/main/manta-whitepaper.pdf). We are still quickly iterating and refining the engineering details of Manta.
 
 Email: contact@manta.network
 
-Website: https://manta.network/
+Website: <https://manta.network/>
 
-Whitepaper: https://github.com/Manta-Network/Manta-Whitepaper
+Whitepaper: <https://github.com/Manta-Network/Manta-Whitepaper>
 
-Github: https://github.com/Manta-Network
+Github: <https://github.com/Manta-Network>
 
-Twitter: https://twitter.com/mantanetwork?s=21
+Twitter: <https://twitter.com/mantanetwork?s=21>
 
-Medium: https://medium.com/@mantanetwork
+Medium: <https://medium.com/@mantanetwork>
 
-Telegram: https://t.me/mantanetwork
+Telegram: <https://t.me/mantanetwork>
 
 WeChat Public Account: MantaNetwork

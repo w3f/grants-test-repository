@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# tDOT
 
-- **Project Name:** tDOT
 - **Team Name:** NUTS Finance
 - **Payment Address:** 0x679824d755B054a2a50358008472a6F400740319(DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

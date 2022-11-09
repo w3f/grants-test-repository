@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Substrate Core Polywrapper
 
-- **Project Name:** Substrate Core Polywrapper
 - **Team Name:** ChainSafe
 - **Co-Sponsor:** Polywrap DAO ([Approved Grant Proposal](https://snapshot.org/#/polywrap.eth/proposal/0x1c4b651c654c9409353e70e4675b3311f06a06ab40d8818e4370faa064c5645d))
 - **Payment Address:** 0x85D81Ab61Fe16CDcaeF2Ca556ED4577A51b9b07C (USDC preffered)

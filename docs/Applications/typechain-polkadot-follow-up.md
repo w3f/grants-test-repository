@@ -1,8 +1,7 @@
 # Typechain grant #2
 
-# W3F Grant Proposal
+# [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot)
 
-- **Project Name:** [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot)
 - **Team Name:** [SuperColony](https://github.com/Supercolony-net)
 - **Payment Address:** ERC 20 ADDRESS:
 0xE1B19cE32866cDE87F8f59C7C2C5f90E093A6942

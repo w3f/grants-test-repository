@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Social Recovery Wallet
 
-- **Project Name:** Social Recovery Wallet
 - **Team Name:** Hypha Hashed Partners
 - **Payment Address:** bc1q7axtazzhsdttextp0qspueaagv4pgfm5l9ne64 (BTC)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

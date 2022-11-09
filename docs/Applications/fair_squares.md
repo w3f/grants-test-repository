@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Fair Squares (FS)
 
-- **Project Name:** Fair Squares (FS)
 - **Team Name:** FS
 - **Payment Address:** 0xED3f3bB424F4a3b254DF0D1a51DD4e7BC5f40e66 (ETH/DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

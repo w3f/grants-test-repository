@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Societal - MVP - Phase 1
 
-- **Project Name:** Societal - MVP - Phase 1
 - **Team Name:** Societal Labs Ltd.
 - **Payment Address:** Ethereum - USDT:  0x80243a916c9ff4837734FE3248d8641476280824
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2 

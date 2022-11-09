@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+#  ParaSpell
 
-- **Project Name:**  ParaSpell
 - **Team Name:**  ParaSpell
 - **Payment Address:**  0xa085190c859eAe92bCCED9CE05b10DDb363FE5Ea (USDC)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):**  1 🐣

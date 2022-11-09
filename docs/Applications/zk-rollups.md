@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# ZK Rollup on Polkadot/Substrate
 
-- **Project:** ZK Rollup on Polkadot/Substrate
 - **Proposer:** NoCtrlZ, akru, and SotaWatanabe
 - **Payment Address:** 1DJTSPajRFCjdfn5UgPXGRo6Di8EE1Dzox
 
