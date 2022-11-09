@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Verida
 
-- **Project Name:** Verida
 - **Team Name:** Verida PTE LTD
 - **Payment Address:** 0x1596525C44f68b45CDd53db49b03A390e2687331 (USDC)
 - **Level:** 2

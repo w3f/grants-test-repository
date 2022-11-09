@@ -1,14 +1,10 @@
-# W3F Open Grant Proposal
+# Cumulus Encrypted Storage System (CESS)
 
-
-- **Project Name:** Cumulus Encrypted Storage System (CESS)
 - **Team Name:** CESS LAB
 - **Payment Address:** 0x378D889a6e66996C9Eda86D20D7E6adE666ce167(USDT)
 - **Level:** 1
 
-
-## Project Overview :page_facing_up:
-
+## Project Overview :page_facing_up
 
 ### Overview
 
@@ -16,7 +12,6 @@
 - Brief description: Cumulus Encrypted Storage System (CESS) is dedicated to develop a new global decentralized cloud data storage platform – a blockchain-based network infrastructure that is transparent, efficient, and equal opportunity to all members of the global community. CESS encourages excess or under-utilized resources as nodes to join CESS’s unrestricted expandable network via the token economy incentive method. Each node joins the CESS peer-to-peer network by contributing data storage resources, computational resources, or network bandwidth. Built on our state-of-the-art virtualization and cloud computing technologies, CESS organizes and manages the participating resources providing clients with secure, high performance, and boundless cloud data storage services. Furthermore, the CESS protocol enables interconnection of network nodes, to build a large decentralized cloud storage system that supports up to 100PB storage scale to meet the demand of enterprise level data storage. CESS will adopt a phased approach to implement the above goals.
 - Indication 1: With the goal of entering Polkadot ecosystem, CESS will build a blockchain system based on Substrate directly, and plans to develop custom pallets on FRAME. In the future, CESS will consider integrating to Polkadot in the form of Parachain to create a new decentralized cloud storage ecosystem, establish a large-scale distributed storage network.
 - Indication 2: With rapid advances of new computing technologies such as big data and machine learning, the value of humanity’s digital assets, the so-called “Digital Gold”, are being discovered. Explosively growing amount of data in cyberspace calls for new technologies of secure data storage and efficient data sharing. The challenges are to achieve secure storage, efficient sharing, and trading with data owner’s rights protection, but current solutions are complex and worrisome. Distributed storage networks can better drive the arrival of Web3.0 and are one of the underlying technical infrastructure of Web3.0.
-
 
 ### Project Details
 
@@ -72,7 +67,7 @@ Compared to the similar projects in the Polkadot ecosystem including Ocean, Data
 - Data rights protection for data owners
 - Competitive cost
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
@@ -83,7 +78,7 @@ Compared to the similar projects in the Polkadot ecosystem including Ocean, Data
 
 - **Contact Name:** Jessie Dai
 - **Contact Email:** jessie@cess.cloud
-- **Website:** http://cess.cloud
+- **Website:** <http://cess.cloud>
 
 ### Legal Structure
 
@@ -110,11 +105,10 @@ Jinghong Zeng served more than 20 years with a global telecommunications coopera
 
 ### Team Code Repos
 
-- https://github.com/Cumulus2021/CumulusSystem
-- https://github.com/Cumulus2021/Whitepaper
+- <https://github.com/Cumulus2021/CumulusSystem>
+- <https://github.com/Cumulus2021/Whitepaper>
 
-## Development Roadmap :nut_and_bolt:
-
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 
@@ -139,7 +133,6 @@ Jinghong Zeng served more than 20 years with a global telecommunications coopera
 | 1c. | Substrate module: Storage Miner | We will create a Substrate module that will process and upload user data, and support Integrity verification. |  
 | 2. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain. |
 
-
 ### Milestone 2: Implement Storage Mining
 
 - **Estimated Duration:** 1 month
@@ -156,7 +149,6 @@ Jinghong Zeng served more than 20 years with a global telecommunications coopera
 | 1b. | zk-SNARK proofs | We will implement the algorithm to process the proof results from stacked DRG library. |
 | 2. | Substrate module: Segment Book | Develop pallet implement function of storage mining. |
 | 3. | Miner Client | Interactive with pallet for storage mining to implement mining supporting services. |
-
 
 ### Milestone 3: Implement and Integrate CESS Applications
 
@@ -176,12 +168,11 @@ Jinghong Zeng served more than 20 years with a global telecommunications coopera
 | 4. | Benchmark | Perform unit tests on the individual algorithms to ensure system safety. |
 | 5. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain. |
 
-
 ## Future Plans
 
 We will continue to improve the substrate-based CESS blockchain and provide reusable modules for the substrate FRAME. The next phase of our project is to implement CESS  protocol for decentralized cloud on-chain data sharing platform.
 
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
 
 **How did you hear about the Grants Program?** We have heard from Parity Asia.
 

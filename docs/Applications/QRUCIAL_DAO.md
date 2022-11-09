@@ -1,10 +1,9 @@
-# W3F Grant Proposal
+# QRUCIAL DAO
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** QRUCIAL DAO
 - **Team Name:** QRUCIAL OÜ
 - **Payment Address:** BTC - bc1qysscajxdstqzpe3x9x4ftr3y6l5gelggtk8a8g
 - **Level:** 2

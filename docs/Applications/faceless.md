@@ -1,6 +1,5 @@
-# Faceless Protocol - Open Grants Program
+# Faceless Protocol
 
-- **Project:** Faceless Protocol
 - **Proposer:** Faceless Protocol
 - **Payment Address:** 0xe2B3e38a8E2b81B6b21B3F295C19403629B15993
 

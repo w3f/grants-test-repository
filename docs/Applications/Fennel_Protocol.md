@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Fennel Protocol
 
-- **Project Name:** Fennel Protocol
 - **Team Name:** Fennel Labs
 - **Payment Address:** 0xF505894841d53AaBDe6EdeA7C5970fFe3A0240b2 (DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

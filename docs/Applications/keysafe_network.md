@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Keysafe Network
 
-- **Project Name:** Keysafe Network
 - **Team Name:** Keysafe
 - **Payment Address:** 0x09C08f46d523822cC9D18A077e2e3BDE5BC07a0b (Ethereum (USDT)) 
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Sequester
 
-- **Project Name:** Sequester
 - **Team Name:** Sequester
 - **Payment Address:** bc1quup4v5el5s7m6szh24d6sn6cl25yjvr8mlymnt
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# The InvArch - INV4 Frame : IP Assets, Licensings, & CLI tool for the Substate ecosystem.
 
-- **Project Name:** The InvArch - INV4 Frame : IP Assets, Licensings, & CLI tool for the Substate ecosystem.
 - **Team Name:** InvArch Network
 - **BTC Payment Address:** bc1qr2wg0snstgn4d2wc0alhhyxs32j58hhdrh5zal (PLEASE NOTE CHANGE)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

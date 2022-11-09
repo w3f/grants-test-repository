@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# Everlasting Cash
 
-- **Project Name:** Everlasting Cash
 - **Team Name:** Cycan Technologies
 - **Payment Address:** ETH address: 0x722043b40dEb4656a103aF03Fd8E781d0146d3F6
 - **Status:**: Terminated

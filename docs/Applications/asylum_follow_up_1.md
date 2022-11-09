@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Asylum
 
-- **Project Name:** [Asylum](https://asylum.space/)
 - **Team Name:** Asylum
 - **Payment Address:** 0xB2a6bF365635ea209d7A824125c1bf249A189866 (USDT (ERC20))
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2

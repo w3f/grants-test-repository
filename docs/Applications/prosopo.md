@@ -1,6 +1,5 @@
-## W3F Open Grant Proposal
+# Prosopo
 
-- Project Name: Prosopo
 - Team Name: Prosopo Limited
 - Payment Address: 0xb13BBd9C9777CACF397e1C083BbB1531E6fDe990 (ETH/DAI)
 - [Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels): 2

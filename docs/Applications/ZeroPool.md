@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# ZeroPool Phase 2
 
-- **Project:** [ZeroPool](https://zeropool.network) Phase 2
 - **Proposer:** snjax
 - **Payment Address:** DAI ERC20: 0xb6F9F891497C0B72a8A817f3D3E3C721fca6f9CC
 

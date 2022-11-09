@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# PESA - On-ramp/off-ramp to crypto/local currencies for Polkadot 
 
-* **Project:** PESA - On-ramp/off-ramp to crypto/local currencies for Polkadot 
 * **Proposer:** [jdoshi1](https://github.com/jdoshi1)
 * **Payment Address:** 3K37k6BQ1JwAczAyNzckS4cGRqhpL6UgYJ
 * **Status:** [Terminated](https://github.com/w3f/Open-Grants-Program/pull/69#issuecomment-844289904)

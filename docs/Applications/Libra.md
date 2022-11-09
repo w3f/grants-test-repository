@@ -1,11 +1,10 @@
-# Project Libra
+# Libra - Decentralized Payment Network
 
-- **Project Name:** Libra - Decentralized Payment Network
 - **Team Name:** @Scale Technologies
 - **Payment Address:** 0x77AE9e7c90E6f6137AC3b3cd09A4bdc4654A0fe5 (ERC20 USDT)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 Libra Payment Network is a decentralized-first payment system. Libra allows people to accept cryptocurrencies as a payment method and handle real-world eCommerce transactions without hassle.
 
@@ -34,7 +33,6 @@ The project's scope is to build three core components that define the foundation
 LRP protocol allows buyer and seller to make a p2p payment while the cryptocurrencies of the buyer have locked until the seller delivers the order. The below diagram will explain the logic of LRP protocol when the sellers integrate with Libra Network.
 
 ![Project Libra-LRP Protocol](https://user-images.githubusercontent.com/92568442/148349639-145690aa-98c3-4e13-b9a3-ccfa01d55f6a.png)
-
 
 For the LRP protocol, the data model for LRP protocol should be generic and flexible for any use cases. Besides, it should be small to store on-chain but need to provide enough information if needed (e.g. dispute case).
 
@@ -212,7 +210,7 @@ Libra's target audience is sellers/buyers who want a safer, faster, more straigh
 - **What need(s) does your project meet?** Libra provides a safe mechanism for both buyers and sellers to transact online
 - **Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?** As far as we know, Libra, with its unique LRP protocol and Resolvers network, is the first project designed to solve real-world eCommerce transactions. There are no similar projects in the ecosystem yet.
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
@@ -223,7 +221,7 @@ Libra's target audience is sellers/buyers who want a safer, faster, more straigh
 
 - **Contact Name:** Anthony Dong
 - **Contact Email:** anthony@atscale.xyz
-- **Website:** https://atscale.xyz
+- **Website:** <https://atscale.xyz>
 
 ### Legal Structure
 
@@ -241,31 +239,31 @@ AtScale is a team specialized in blockchain development. We aim to rely on block
 
 ### Team Code Repos
 
-- https://github.com/atscaletech/ (AtScale Technologies)
-- https://github.com/atscaletech/polkadot-hackathon-apac (Hackathon Submission)
+- <https://github.com/atscaletech/> (AtScale Technologies)
+- <https://github.com/atscaletech/polkadot-hackathon-apac> (Hackathon Submission)
 
 ### Team LinkedIn Profiles (if available)
 
 Due to privacy concerns, the team information will provide in private by email if requested.
 
-## Development Status :open_book:
+## Development Status :open_book
 
 Libra is founded and developed in the Polkadot APAC Hackathon 2021. We already built a proof of concept application and here is our hackathon submission:
 
-- Pitch video: https://youtu.be/pR4_2nrrJQQ
-- Demo screencast: https://youtu.be/cR7gKSzVoAY
-- Live demo: https://app.libra.atscale.xyz
-- Explorer: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.libra.atscale.xyz#/explorer
-- Git repository: https://github.com/atscaletech/polkadot-hackathon-apac
+- Pitch video: <https://youtu.be/pR4_2nrrJQQ>
+- Demo screencast: <https://youtu.be/cR7gKSzVoAY>
+- Live demo: <https://app.libra.atscale.xyz>
+- Explorer: <https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.libra.atscale.xyz#/explorer>
+- Git repository: <https://github.com/atscaletech/polkadot-hackathon-apac>
 
-## Development Roadmap :nut_and_bolt:
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 
 - **Total Estimated Duration:** ~ 4 months
 - **Full-Time Equivalent (FTE):** 1.5 FTE
 - **Total Costs:** 16,000 USD
- 
+
 ### Milestone 1 - LRP Protocol Implementation
 
 - **Estimated duration:** 1 month
@@ -330,7 +328,6 @@ For the long term plan, we will:
 - Scale up the resolvers networks
 - Develop tools for Libra such as fraud payment detection, API, AI/ML dispute processor, ...
 
-
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
 
 **How did you hear about the Grants Program?** Web3 Foundation Website

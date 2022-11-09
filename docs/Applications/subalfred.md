@@ -1,19 +1,23 @@
 # Subalfred
+
 - **Team Name:** hack-ink
 - **Payment Address:** 0xccd79b2b77e71292924e85de130bfb1c03d94522 (Ethereum)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 ### Overview
+
 `subalfred`'s goal is to become an all-in-one Substrate development toolbox.
 
 It provides a bunch of tools to make the developers feel more comfortable while playing with Substrate.
 
 ### Project Details
+
 Check the [Subalfred Book](https://subalfred.hack.ink).
 
 ### Ecosystem Fit
+
 - Where and how does your project fit into the ecosystem?
   - A CLI tool is written in Rust that Substrate developers can use anywhere.
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
@@ -39,55 +43,67 @@ Check the [Subalfred Book](https://subalfred.hack.ink).
   - If not, are there similar projects in related ecosystems?
     - No.
 
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
+
 - Xavier Lau
 
 ### Contact
+
 - **Contact Name:** Xavier Lau
 - **Contact Email:** xavier@inv.cafe
-- **Website:** https://linktr.ee/aurevoirxavier
+- **Website:** <https://linktr.ee/aurevoirxavier>
 
 ### Legal Structure
+
 Personal. (no legal structure entry)
 
 ### Team's experience
+
 [Xavier Lau](https://github.com/AurevoirXavier)
-  - Six years of experience in Rust.
-  - Three years of experience in Substrate.
-  - Darwinia Network core developer, since 2019.
-  - Actively at [Substrate StackExchange](https://substrate.stackexchange.com/users/251/aurevoirxavier).
+
+- Six years of experience in Rust.
+- Three years of experience in Substrate.
+- Darwinia Network core developer, since 2019.
+- Actively at [Substrate StackExchange](https://substrate.stackexchange.com/users/251/aurevoirxavier).
 
 ### Team Code Repos
-- https://github.com/hack-ink
-- https://github.com/hack-ink/array-bytes
-- https://github.com/hack-ink/cloudflare-bypasser
-- https://github.com/hack-ink/codewars
-- https://github.com/hack-ink/unescaper
+
+- <https://github.com/hack-ink>
+- <https://github.com/hack-ink/array-bytes>
+- <https://github.com/hack-ink/cloudflare-bypasser>
+- <https://github.com/hack-ink/codewars>
+- <https://github.com/hack-ink/unescaper>
 
 Please also provide the GitHub accounts of all team members.
 If they contain no activity, references to projects hosted elsewhere or live are also fine.
-- https://github.com/AurevoirXavier
+
+- <https://github.com/AurevoirXavier>
 
 ### Team LinkedIn Profiles (if available)
-- https://www.linkedin.com/in/xavier-lau-b0655310a
 
-## Development Status :open_book:
+- <https://www.linkedin.com/in/xavier-lau-b0655310a>
+
+## Development Status :open_book
+
 > [GitHub](https://github.com/hack-ink/subalfred), [Subalfred Book](https://subalfred.hack.ink)
 
 There are three parts:
+
 - [CLI](https://github.com/hack-ink/subalfred/tree/main/src/bin/subalfred) components.
 - [Core libraries](https://github.com/hack-ink/subalfred/tree/main/src/subalfred).
 - [Substrate minimal libraries](https://github.com/hack-ink/subalfred/tree/main/substrate-minimal),
   some Substrate libraries's re-implementations reduce the unnecessary dependencies as much as possible.
 
 ### Overview
+
 - **Total Estimated Duration:** 8 weeks
 - **Full-Time Equivalent (FTE):**  1 FTE
 - **Total Costs:** 30,000 USD in Ethereum USDC
 
 ### Milestone 1 — Polish the existing features and add more new features
+
 - **Estimated duration:** 5 weeks
 - **FTE:**  1
 - **Costs:** 24,000 USD
@@ -108,6 +124,7 @@ There are three parts:
 |     7. | Releases                           | Linux, macOS, Windows prebuilt binaries, and crates.io release.                                                                                  |
 
 ### Milestone 2 — Add more new features
+
 - **Estimated Duration:** 2 week
 - **FTE:**  1
 - **Costs:** 4000 USD
@@ -124,6 +141,7 @@ There are three parts:
 |     4. | Releases                  | Release Linux, macOS, Windows prebuilt binaries on GitHub, and crates.io.                                                                        |
 
 ### Milestone 3 — Provide checks' GitHub Actions
+
 - **Estimated Duration:** 1 week
 - **FTE:**  1
 - **Costs:** 2000 USD
@@ -139,9 +157,11 @@ There are three parts:
 |     4. | Release                                | Release on GitHub.                                                                             |
 
 ## Future Plans
+
 - Keep connected with the community/parity to provide more useful tools.
 
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
+
 **How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 From my team, Darwinia Network.
 

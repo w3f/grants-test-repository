@@ -1,7 +1,5 @@
-# W3F Grant Proposal
+# Primis
 
-
-- **Project Name:** Primis
 - **Team Name:** Primis
 - **Payment Address:** 0x0Ad212E301AD590f4E70dA0c0Aa2912273cB4098 (USDC)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1

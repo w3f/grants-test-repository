@@ -1,6 +1,5 @@
-# W3F Grant Proposal
+# Meta Defender
 
-- **Project Name:** Meta Defender
 - **Team Name:** Meta Defender Team
 - **Payment Address:** 25r4oZedLXEunTmdvytyH4xcmQqqWWw8KmphdiD5LqpU29pv （aUSD）
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1

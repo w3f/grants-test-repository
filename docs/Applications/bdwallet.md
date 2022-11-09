@@ -1,6 +1,5 @@
-# Open Grant Proposal
+# BD Wallet
 
-- **Project Name:** BD Wallet
 - **Payment Address:** 3FfrG9FrZXmPikEYJ9FdHPoRZ2nPjMY45W
 - **Status:** [Terminated](https://github.com/w3f/Open-Grants-Program/pull/115#issuecomment-833812681)
 

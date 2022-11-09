@@ -1,22 +1,20 @@
-# W3F Grant Proposal
+# SaaS3
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 
-- **Project Name:** SaaS3
 - **Team Name:** SaaS3 Lab
 - **Payment Address(USDT):** 0x8341e551B0AE5E5905C20A112b123b5F797612f3
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
-## Project Overview :page_facing_up:
+## Project Overview :page_facing_up
 
 ### Overview
 
-#### Dilemma of web3 Ecosystem - With functionalities yet to become full-fledged, Web3.0 applications need a rethink of development stacks.
+#### Dilemma of web3 Ecosystem - With functionalities yet to become full-fledged, Web3.0 applications need a rethink of development stacks
 
 For instance, most of the web2 projects and dependencies are based on Java, C++, PHP, etc., while web3 requires another totally different technical stacks such as Solidity, Motoku, or Substrate on EVM / WASM which hinders web2 developers to build web3 applications.
 
 ![image](https://user-images.githubusercontent.com/95557343/157393726-c22c47d2-a4d0-4335-b890-29d6fad4417c.png)
-
 
 SaaS3 project aims to deliver a fully decentralized software as a service (SaaS) network with highly scalable, crypto token incentivized and results in a solution that can serve as the application interface (API) layer for web3.
 SaaS3 is devoted to transforming traditional web2 API to web3 dAPI by decentralized docker runtime (dRuntime).
@@ -42,7 +40,6 @@ SaaS3 as a part of Polkadot / Kusama / web 3 Ecosystem and has the following pro
 
 ![image](https://user-images.githubusercontent.com/95557343/159788632-250f04b6-b2b9-42c5-9927-6e4487aea8ef.png)
 
-
 Decentralized docker runtime (dRuntime) is built on miner network which aims to execute dAPIs. Those dAPIs is created by API creators as a result of development labor. Computational node targets to setup the dRuntime, or better known as the 'miner', namely the party that performs the computational tasks. They are hereafter referred to as 'nodes' or 'miners'. The Dapp developer is the dAPI user, who sends requests and pays to access the dAPI. Their actions are detailed below.
 
 - To access a web3 dAPI, users pay $SA3 tokens to nodes as the Gas fee and to software creators as the royalty fee.
@@ -52,7 +49,6 @@ Decentralized docker runtime (dRuntime) is built on miner network which aims to 
 - The Creator receives the royalty fee as the reward for their commitment to the docker development; they are the author of Web2 API codes.
 
 ![image](https://user-images.githubusercontent.com/95557343/159788719-f6fb785d-65ce-4f7c-a3cb-5b0226708895.png)
-
 
 ##### Security & Off-chain Miner Consensus
 
@@ -128,7 +124,6 @@ At Court DAO, the dAPI user can pay a fee for sue claims and, subject to the cou
           - Miner1, Miner2, or Miner3
       - Slash the dAPI in terms of drawbacks or bugs.
 
-
 9. **3-zkc and gas calculation algorithm (3-zkcg)**
 
 We will provide a protocol / software which is similar with [AWS Lambda API Pricing](https://aws.amazon.com/lambda/pricing/) for miner, but replace dollar unit with gas. In SaaS3, miners should monitor each container's resource usage by our software to calculate gas usage i.e., `gas_used` for once dAPI call. `rewards=gas_used*gas_price` gas_used is defined by following process with 3-zkc. Here, we illustrate the algorithm to show the procedure, a user request with `gas_limit` is sent to three miners `m1,m2,m3` at time `t=0` with user-set maximum timeout `Tmax`, there will be following scenarios:
@@ -149,21 +144,16 @@ We will provide a protocol / software which is similar with [AWS Lambda API Pric
 
 <img width="875" alt="a0e9fb71f04ea16161f09ca17048e72" src="https://user-images.githubusercontent.com/95557343/159504829-c65eacd8-3d48-4f32-9dfa-b341a5d6f117.png" />
 
-
-
 ### Game theory Proof for 3-zkc algorithm with Nash Equilibrium Convergence ###
 
 Both Miner1,Miner2, and Miner3 will choose loyalty.
 <img src="https://user-images.githubusercontent.com/95557343/159789034-b32f24a3-f185-4986-904c-33268bf1df04.png" width="800" />
-
-
 
 ### Technical Implementation Diagram
 
 We will implement 5 pallets: `pallet-entity`, `pallet-dAPI`, `pallet-DAO`, `pallet-miner`, and `pallet-stake` where `pallet-dAPI` is the core component of the project.
 
 ![image](https://user-images.githubusercontent.com/95557343/159320880-a6fc9d62-5cc2-457e-9797-11db72edf352.png)
-
 
 ### Ecosystem Fit
 
@@ -174,9 +164,8 @@ We will implement 5 pallets: `pallet-entity`, `pallet-dAPI`, `pallet-DAO`, `pall
 
 Similar Projects:
 
-- **Livepeer** https://livepeer.org/ It provides a video encoding service instead of general web3 SaaS.
-- **API3** https://api3.org/ Its dAPI as decentralized oracle to provide off-chain data streaming for smart contracts instead of computation tasks to offer a SaaS in web3.
-
+- **Livepeer** <https://livepeer.org/> It provides a video encoding service instead of general web3 SaaS.
+- **API3** <https://api3.org/> Its dAPI as decentralized oracle to provide off-chain data streaming for smart contracts instead of computation tasks to offer a SaaS in web3.
 
 SaaS market in Dapp, web3.0, and Metaverse:
 
@@ -188,8 +177,7 @@ SaaS market in Dapp, web3.0, and Metaverse:
 ![6742e6c196c0ec2354f3e65474c0dd7](https://user-images.githubusercontent.com/95557343/155807321-3d96b3a6-f6c1-4b64-9411-3d75bd7eceb5.png)
 ![a07096c685597b9faaa8de4bce9956c](https://user-images.githubusercontent.com/95557343/155807345-fd92a0aa-1d5f-44ea-a57a-4f1ec8a4f70c.png)
 
-
-## Team :busts_in_silhouette:
+## Team :busts_in_silhouette
 
 ### Team members
 
@@ -206,13 +194,11 @@ The core team members are top Ph.Ds in computer science who are technical and ex
 - **Laekshan** was a software engineer in a world-leading company. He is also an expert in IoT
 development. He has mined bitcoin since 2015. Therefore, he has a lot of experience in crypto mining and market analysis.
 
-
-
 ### Contact
 
 - **Contact Name:** Rocky Yang
 - **Contact Email:** contact@saas3.io
-- **website:** https://www.saas3.io
+- **website:** <https://www.saas3.io>
 
 ### Legal Structure
 
@@ -221,29 +207,29 @@ development. He has mined bitcoin since 2015. Therefore, he has a lot of experie
 
 ### Team Code Repos
 
-- https://github.com/SaaS3DAO/
-- https://github.com/SaaS3DAO/DeAIMainNet
-- https://github.com/SaaS3DAO/non-api-nft
-- https://github.com/SaaS3DAO/substrate-node-template
-- https://github.com/SaaS3DAO/substrate
+- <https://github.com/SaaS3DAO/>
+- <https://github.com/SaaS3DAO/DeAIMainNet>
+- <https://github.com/SaaS3DAO/non-api-nft>
+- <https://github.com/SaaS3DAO/substrate-node-template>
+- <https://github.com/SaaS3DAO/substrate>
 
 GitHub accounts of all team members.
 
-- https://github.com/isrugeek
-- https://github.com/Marsrocky
-- https://github.com/qinwang-ai
-- https://github.com/ChinW
-- https://github.com/Deslate
-- https://github.com/kkazuha
-- https://github.com/hugoycj
+- <https://github.com/isrugeek>
+- <https://github.com/Marsrocky>
+- <https://github.com/qinwang-ai>
+- <https://github.com/ChinW>
+- <https://github.com/Deslate>
+- <https://github.com/kkazuha>
+- <https://github.com/hugoycj>
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.cn/injobs/in/israel-goytom-66713011b
-- https://www.linkedin.cn/injobs/in/jianfei-yang-55560386/
-- https://www.linkedin.com/in/steven-wong-3b015079/
+- <https://www.linkedin.cn/injobs/in/israel-goytom-66713011b>
+- <https://www.linkedin.cn/injobs/in/jianfei-yang-55560386/>
+- <https://www.linkedin.com/in/steven-wong-3b015079/>
 
-## Development Roadmap :nut_and_bolt:
+## Development Roadmap :nut_and_bolt
 
 ### Overview
 
@@ -251,13 +237,11 @@ GitHub accounts of all team members.
 - **Full-Time Equivalent (FTE):**  5
 - **Total Costs:** 45500 USDT
 
-### Milestone 1 — SaaS3 Documentation, pallet-entity, pallet-service, pallet-stake,
+### Milestone 1 — SaaS3 Documentation, pallet-entity, pallet-service, pallet-stake
 
 - **Estimated duration:** 2.5 month
 - **FTE:**  4
 - **Costs:** 24000 USD
-
-
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -306,8 +290,7 @@ GitHub accounts of all team members.
 - Continue developing and polishing the project to flourish SaaS3 ecosystem to burst the web3 world based on Polkadot / Kusama / Substrate multi-chain system.
 - Provide more reliable efficient computation service which can run Polkadot / Kusama validator dockers.
 
-
-## Additional Information :heavy_plus_sign:
+## Additional Information :heavy_plus_sign
 
 **How did you hear about the Grants Program?**
 
@@ -315,10 +298,10 @@ web3 Foundation Website
 
 **Related Files**
 
-- PitchDeck: https://www.saas3.io/file/PitchDeck_SaaS3.pdf
-- SaaS3 website: https://saas3.io
-- iNFT Demo (move to RMRK standard soon): https://saas3.io/non-api-nft
-- Whitepaper(Beta Version): https://www.saas3.io/file/SaaS3Whitepaper.pdf
+- PitchDeck: <https://www.saas3.io/file/PitchDeck_SaaS3.pdf>
+- SaaS3 website: <https://saas3.io>
+- iNFT Demo (move to RMRK standard soon): <https://saas3.io/non-api-nft>
+- Whitepaper(Beta Version): <https://www.saas3.io/file/SaaS3Whitepaper.pdf>
 
 **Other Grants**
 

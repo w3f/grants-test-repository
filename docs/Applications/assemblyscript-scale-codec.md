@@ -1,9 +1,7 @@
-
-# Open Grant Proposal
+# SCALE Codec Implementation
 
 > This document is referenced in the terms and conditions and therefore needs to contain all the required information. Don't remove any of the mandatory parts presented in bold letters or as headlines! See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/blob/master/README_2.md) on how to submit a proposal.
 
-- **Project:** SCALE Codec Implementation
 - **Proposer:** [LimeChain](https://github.com/LimeChain)
 - **Payment Address:**  
 bc1q8x95fuz6t767ugkn2vnwlz3e0q2rwc4xw9ede4 (when it comes to payment, let’s test out the address with a small amount first)

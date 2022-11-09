@@ -114,7 +114,10 @@ module.exports = {
           ],
           rehypePlugins: [
           ],
-          exclude: ['Applications/application-template.md'],
+          exclude: [
+            'Applications/application-template.md',
+            'Applications/example-project.md'
+          ],
         },
         blog: {
           showReadingTime: true,
