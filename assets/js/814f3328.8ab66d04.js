@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrants=self.webpackChunkgrants||[]).push([[2535],{45641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"W3F grants blog","permalink":"/grants-test-repository/blog/W3F grants blog"}]}')}}]);
