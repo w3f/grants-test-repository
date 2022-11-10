@@ -5,7 +5,7 @@ const mdxMermaid = require('mdx-mermaid');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Web3 Foundation Grants',
-  tagline: 'Funding software development and research efforts related to Polkadot, Kusama, Substrate and ink!',
+  tagline: 'Funding software development and research efforts related to Polkadot, Kusama, Substrate and ink!.',
   url: 'https://w3f.github.io',
   baseUrl: '/grants-test-repository/',
   onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
@@ -18,8 +18,8 @@ module.exports = {
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: false,
-
+      disableSwitch: true,
+      respectPrefersColorScheme: false
     },
     announcementBar: {
       id: 'announcement',
@@ -38,12 +38,6 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'Introduction/index',
-          position: 'left',
-          label: 'Introduction',
-        },
-        {
-          type: 'doc',
           docId: 'apply',
           position: 'left',
           label: 'Apply',
@@ -53,8 +47,36 @@ module.exports = {
           docId: 'Applications/index',
           position: 'left',
           label: 'Applications',
-        }
-
+        },
+        // {
+        //   type: 'dropdown',
+        //   label: 'Docs',
+        //   position: 'left',
+        //   items: [    
+        //     {
+        //       type: 'doc',
+        //       docId: 'Introduction/index',
+        //       label: 'Introduction',
+        //     },
+        //     {
+        //       type: 'doc',
+        //       docId: 'Help',
+        //       label: 'Help',
+        //     },
+        //     {
+        //       type: 'doc',
+        //       docId: 'FAQ',
+        //       label: 'FAQ',
+        //     },
+            
+        //   ],
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'Contribute',
+        //   position: 'right',
+        //   label: 'Contribute',
+        // },
       ],
     },
     footer: {
