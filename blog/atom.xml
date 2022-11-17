@@ -13,9 +13,12 @@
         <link href="https://w3f.github.io/grants-test-repository/blog/W3F grants blog"/>
         <updated>2022-07-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[test blog post]]></summary>
+        <content type="html"><![CDATA[<p>test blog post</p>]]></content>
         <author>
             <name>Radha</name>
             <uri>https://github.com/DrW3RK</uri>
         </author>
+        <category label="w3f" term="w3f"/>
+        <category label="grants" term="grants"/>
     </entry>
 </feed>

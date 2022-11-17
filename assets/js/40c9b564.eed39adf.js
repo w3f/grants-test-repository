@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgrants=self.webpackChunkgrants||[]).push([[1241],{20061:s=>{s.exports=JSON.parse('{"allTagsPath":"/grants-test-repository/blog/tags","slug":"/grants-test-repository/blog/tags/grants","name":"grants","count":1,"permalink":"/grants-test-repository/blog/tags/grants"}')}}]);
