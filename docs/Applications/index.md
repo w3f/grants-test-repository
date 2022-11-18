@@ -13,8 +13,9 @@ Use this page for an overview of all public grants and their status. Use the sid
 
 ---
 
-## Table of Contents <!-- omit in toc -->
+## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [2019](#2019)
   - [🏄‍♀️ Wave 1 - First Quarter 2019](#️-wave-1---first-quarter-2019)
   - [🏄‍♀️ Wave 2 - Second Quarter 2019](#️-wave-2---second-quarter-2019)
@@ -36,9 +37,9 @@ Use this page for an overview of all public grants and their status. Use the sid
   - [🏄‍♀️ Wave 15 - Third Quarter 2022](#️-wave-15---third-quarter-2022)
   - [🏄‍♀️ Wave 16 - Fourth Quarter 2022](#️-wave-16---fourth-quarter-2022)
 
-# 2019
+## 2019
 
-## 🏄‍♀️ Wave 1 - First Quarter 2019
+### 🏄‍♀️ Wave 1 - First Quarter 2019
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -53,7 +54,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Protos](http://protosmanagement.com/) | Open Source Node Explorer | [GitHub](https://github.com/protos-research/polkadot-node-explorer) | ☒ | ☒ |  |
 | [Supercomputing Systems](https://www.scs.ch/) | Substrate Transaction Privacy using Intel SGX | [GitHub](https://github.com/scs/substraTEE) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 2 - Second Quarter 2019
+### 🏄‍♀️ Wave 2 - Second Quarter 2019
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -70,7 +71,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Mailchain](https://mailchain.xyz/) | a Multi-Blockchain Messaging Application | [GitHub](https://github.com/mailchain) |  | ☒ | ☒ |
 | [Usetech](http://usetech.com/blockchain.html) | Polkadot C++ API | [GitHub](https://github.com/usetech-llc/polkadot_api_cpp) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 3 - Third Quarter 2019
+### 🏄‍♀️ Wave 3 - Third Quarter 2019
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -89,7 +90,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Phala.Network](https://phala.network/) | pLibra, Privacy Bridge between Polkadot and Libra chain | [GitHub](https://github.com/Phala-Network/) |  | ☒ |  |
 | [Wiv](http://wiv.io/) | Supply chain modules and front-end UI | [GitHub](https://github.com/wivtech) | ☒ |  |  |
 
-## 🏄‍♀️ Wave 4 - Fourth Quarter 2019
+### 🏄‍♀️ Wave 4 - Fourth Quarter 2019
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -112,7 +113,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Speckle OS](https://www.speckleos.io/) | Integrating additional features into Speckle OS | [GitHub](https://github.com/SpeckleOS/speckle-browser-extension) |  |  |  |
 | [Archipel](https://archipel.id/) | Solution to resolve high availability problem of Validator nodes in PoS | [GitHub](https://github.com/luguslabs/archipel) |  | ☒ | ☒ |
 | [Zondax](https://zondax.ch/) | Flexible TrustZone-based HSM stack | [GitHub](https://github.com/ZondaX) |  | ☒ | ☒ |
-| [Usetech](http://usetech.com/blockchain.html) | SR25519 library in pure C and C# | [GitHub](https://github.com/usetech-llc/) |  | ☒ | ☒ |
+| [Usetech](http://usetech.com/blockchain.html) | SR25519 library in pure C and C## | [GitHub](https://github.com/usetech-llc/) |  | ☒ | ☒ |
 | [Akropolis](https://akropolis.io/) | PolkaHub — Heroku-like infrastructure for node deployment | [GitHub](https://github.com/akropolisio) |  | ☒ | ☒ |
 | [Pixura](https://pixura.io/) | Substrate API client in Haskell | [GitHub](https://github.com/Pixura) |  |  |  |
 | [HashQuark](https://www.hashquark.io/) | Validator Dashboard | [GitHub](https://github.com/hashquark-io) |  | ☒ | ☒ |
@@ -120,9 +121,9 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Sean Young](https://www.mess.org/) | Solidity to WASM compiler | [GitHub](https://github.com/hyperledger-labs/solang) |  | ☒ | ☒ |
 | [Chain Security](https://chainsecurity.com/) | Tool for validating correctness of Polkadot runtimes | [GitHub](https://github.com/ChainSecurity) |  | ☒ | ☒ |
 
-# 2020
+## 2020
 
-## 🏄‍♀️ Wave 5 - First Quarter 2020
+### 🏄‍♀️ Wave 5 - First Quarter 2020
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -164,7 +165,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Lyken](https://lyken.rs/) | Rust trait system revamp | [GitHub](https://github.com/LykenSol) |  | ☒ |  |
 | [Chorus One](https://chorus.one/) | Grandpa light client in Tendermint | [GitHub](https://github.com/ChorusOne) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 6 - Second Quarter 2020
+### 🏄‍♀️ Wave 6 - Second Quarter 2020
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -202,7 +203,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Zondax](http://zondax.ch/) | Ledgeracio: A command-line tool and Ledger app designed for staking operations | [GitHub](https://github.com/paritytech/ledgeracio) |  | ☒ | ☒ |
 | [Dipole Tech](https://www.dipole.tech) | Dipole Oracle: Distributed energy resource management | [GitHub](https://github.com/DipoleTech/dipole-oracle) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 7 - Third Quarter 2020
+### 🏄‍♀️ Wave 7 - Third Quarter 2020
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -238,7 +239,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [sup](https://github.com/clearloop/sup) | Command line tool for generating or upgrading a Substrate node | [GitHub](https://github.com/clearloop/sup) |  | ☒ | ☒ |
 | [Shard Labs](https://shardlabs.io) | Tip or Donate KSM Embeddable Button | [GitHub](https://github.com/Shard-Labs) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 8 - Fourth Quarter 2020
+### 🏄‍♀️ Wave 8 - Fourth Quarter 2020
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -286,9 +287,9 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [HugoByte](https://hugobyte.com/) | Project Aurras: Event Manager | [GitHub](https://github.com/HugoByte) |  | ☒ | ☒ |
 | [Bounce Protocol](https://bounce.finance/) | Decentralized Auction Protocol | [GitHub](https://github.com/bouncefinance/bounce-network) |  |  |  |
 
-# 2021
+## 2021
 
-## 🏄‍♀️ Wave 9 - First Quarter 2021
+### 🏄‍♀️ Wave 9 - First Quarter 2021
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -341,7 +342,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Vera](https://veraprotocol.org/) | NFT Lending + Exchange | [GitHub](https://github.com/veraprotocol) |  | ☒ | ☒ |
 | [Parallel Finance](https://parallel.fi/#/) | Decentralized lending/borrowing and staking protocol | [GitHub](https://github.com/parallel-finance/parallel) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 10 - Second Quarter 2021
+### 🏄‍♀️ Wave 10 - Second Quarter 2021
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -375,7 +376,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [CryptoLab](https://www.cryptolab.network) | Staking Reward Collector | [GitHub](https://github.com/cryptolab-network) |  | ☒ | ☒ |
 | [Yatima Inc](https://github.com/yatima-inc/yatima) | Lambda-VM and programming language for Substrate | [GitHub](https://github.com/yatima-inc/yatima) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 11 - Third Quarter 2021
+### 🏄‍♀️ Wave 11 - Third Quarter 2021
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -406,7 +407,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Skye Kiwi](https://skye.kiwi/) | SkyeKiwi Protocol | [GitHub](https://github.com/skyekiwi) |  | ☒ | ☒ |
 | [Evercity](https://evercity.io/) | Sustainable Finance Protocol | [GitHub](https://github.com/EvercityEcosystem) |  | ☒ | ☒ |
 
-## 🏄‍♀️ Wave 12 - Fourth Quarter 2021
+### 🏄‍♀️ Wave 12 - Fourth Quarter 2021
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -432,9 +433,9 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [AdMeta](https://admeta.network/) | A privacy-preserving Ad Platform | [GitHub](https://github.com/AdMetaNetwork/admeta) |  |  |  |
 | Crypto Pay Lab (CPL)) | Dotpay a github paid task platform using DOT | [GitHub](https://github.com/bytepayment) |  | ☒ |  |
 
-# 2022
+## 2022
 
-## 🏄‍♀️ Wave 13 - First Quarter 2022
+### 🏄‍♀️ Wave 13 - First Quarter 2022
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -471,7 +472,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [NUTS Finance](https://nuts.finance) | DOT-pegged derivative built on top of the stable asset protocol | [GitHub](https://github.com/nutsfinance/) |  | ☒ | ☒ |
 | [Strategy Object](https://strategyobject.com/) | Substrate Client for Java | [GitHub](https://github.com/strategyobject/substrate-client-java) |  | ☒ |  |
 
-## 🏄‍♀️ Wave 14 - Second Quarter 2022
+### 🏄‍♀️ Wave 14 - Second Quarter 2022
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -512,7 +513,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Hypha Hashed Partners](https://hypha.earth/) | Social Recovery Wallet | [GitHub](https://github.com/hypha-dao) |  | ☒ |  |
 | [MangoBOX labs](http://mangobox.xyz/) | MangoBOX Protocol | [GitHub](https://github.com/Mangoboxlabs) |  |  |  |
 
-## 🏄‍♀️ Wave 15 - Third Quarter 2022
+### 🏄‍♀️ Wave 15 - Third Quarter 2022
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
@@ -556,7 +557,7 @@ Use this page for an overview of all public grants and their status. Use the sid
 | [Standard Protocol](https://standard.tech/) | New Order - a full onchain orderbook dex with indexers | [GitHub](https://github.com/standardweb3) |  |  |  |
 | [hack-ink](https://github.com/hack-ink) | Subalfred | [GitHub](https://github.com/hack-ink/subalfred) |  |  |  |
 
-## 🏄‍♀️ Wave 16 - Fourth Quarter 2022
+### 🏄‍♀️ Wave 16 - Fourth Quarter 2022
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
