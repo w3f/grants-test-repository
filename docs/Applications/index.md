@@ -1,11 +1,9 @@
 ---
-# title: List of accepted applications
+title: Accepted Grant Applications
 layout: applications
 ---
 
 Use this page for an overview of all public grants and their status. Use the sidebar to navigate directly to a specific grant application document.
-
-# Accepted Grant Applications <!-- omit in toc -->
 
 > **:loudspeaker:** This page provides an overview of accepted grant applications, their progress and a link to their GitHub repositories. In cases where the link points to an organization, you should be aware that the grant application itself **is often an independent project unrelated to other work done by the teams**.
 >
