@@ -119,8 +119,8 @@ module.exports = {
         docs: {
           routeBasePath: '/', 
           // editUrl: 'https://github.com/w3f/grants-test-repository/edit/master/',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
+          // showLastUpdateAuthor: true,
+          // showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           beforeDefaultRehypePlugins: [
           ],
