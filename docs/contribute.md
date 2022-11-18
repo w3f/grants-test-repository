@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
 title: Contribute
+id: Contribute
 ---
 
 The W3F Grants Program aims to be as open and accessible as possible. If you are interested in contributing or getting involved, there are several ways you can do that:

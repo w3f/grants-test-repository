@@ -1,6 +1,7 @@
 ---
 sidebar_position: 11
 title: FAQ
+id: FAQ
 ---
 
 # Frequently Asked Questions<!-- omit in toc -->
