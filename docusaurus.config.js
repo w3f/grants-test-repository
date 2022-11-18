@@ -98,15 +98,10 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com/Web3foundation',
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            }
+              label: 'Grants Program Matrix channel',
+              href: 'https://twitter.com/Web3foundation',
+            },
           ],
         },
       ],
@@ -122,6 +117,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/', 
           editUrl:
             'https://github.com/w3f/grants-test-repository/edit/master/',
           showLastUpdateAuthor: true,
@@ -141,12 +137,7 @@ module.exports = {
             'Applications/example-project.md'
           ],
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/w3f/grants-test-repository/edit/master/blog/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
