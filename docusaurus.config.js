@@ -44,39 +44,26 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'Introduction/index',
+          label: 'Introduction',
+        },
+        {
+          type: 'doc',
           docId: 'Applications/index',
           position: 'left',
-          label: 'Applications',
+          label: 'List of Grants',
         },
-        // {
-        //   type: 'dropdown',
-        //   label: 'Docs',
-        //   position: 'left',
-        //   items: [    
-        //     {
-        //       type: 'doc',
-        //       docId: 'Introduction/index',
-        //       label: 'Introduction',
-        //     },
-        //     {
-        //       type: 'doc',
-        //       docId: 'Help',
-        //       label: 'Help',
-        //     },
-        //     {
-        //       type: 'doc',
-        //       docId: 'FAQ',
-        //       label: 'FAQ',
-        //     },
-            
-        //   ],
-        // },
-        // {
-        //   type: 'doc',
-        //   docId: 'Contribute',
-        //   position: 'right',
-        //   label: 'Contribute',
-        // },
+        {
+          type: 'doc',
+          docId: 'FAQ',
+          label: 'FAQ',
+        },
+        {
+          type: 'doc',
+          docId: 'Contribute',
+          position: 'right',
+          label: 'Contribute',
+        }
       ],
     },
     footer: {
